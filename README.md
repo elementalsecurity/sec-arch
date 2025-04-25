@@ -1,21 +1,21 @@
 # So You Want to Be a Security Architect?  
-### A Field Manual for Building and Breaking Secure Systems
+### A Field Manual for Building-and Breaking-Secure Systems
 
 Welcome.  
 This repository is a **public, vendor-neutral knowledge base** that teaches security architecture from first principles all the way to runnable, cloud-native reference implementations.  
-Clone it, fork it, rip it apart, improve it... Just keep the rigor and clarity.
+Clone it, fork it, rip it apart, improve it-just keep the 🔍 rigor and 🧭 clarity.
 
 ---
 
-## 1  Why This Repo Exists — Mission
+## 1  Why This Repo Exists  - Mission
 
-> **Raise the bar** for security design across the industry by sharing battle-tested patterns, end-to-end reference architectures, and hands-on labs—**free and forever**.
+> **Raise the bar** for security design across the industry by sharing battle-tested patterns, end-to-end reference architectures, and hands-on labs-**free and forever**.
 
 We prioritise:
 
 * **First-principles reasoning** over cargo-cult “best practices”  
 * **Concrete artifacts** (diagrams ⇢ IaC ⇢ tests) over slideware  
-* **Open governance** every control or pattern is open to scrutiny and debate
+* **Open governance**-every control or pattern is open to scrutiny and debate
 
 ---
 
@@ -34,7 +34,7 @@ We prioritise:
 
 | Focus | Why It Matters |
 |-------|----------------|
-| **Systems Thinking** | Controls interact—design the whole, not point fixes. |
+| **Systems Thinking** | Controls interact-design the whole, not point fixes. |
 | **Risk Orientation** | Architecture exists to manage *business* risk, not chase “perfect” security. |
 | **Adversary Empathy** | Model how a real attacker crosses each trust boundary. |
 | **Engineering Pragmatism** | Patterns must be deployable by real teams, under real deadlines. |
@@ -56,13 +56,13 @@ We prioritise:
 
 ## 5  First-Principles Thinking (30-second Version)
 
-1. **Define the irreducibles** — the asset properties that must never break.  
-2. **Decompose the system** — minimal data-flow diagram; locate implicit trust.  
-3. **Identify natural forces** — adversary capabilities, entropy, human error.  
-4. **Quantify risk** — even rough math beats hand-waving.  
+1. **Define the irreducibles** - the asset properties that must never break.  
+2. **Decompose the system** - minimal data-flow diagram; locate implicit trust.  
+3. **Identify natural forces** - adversary capabilities, entropy, human error.  
+4. **Quantify risk** - even rough math beats hand-waving.  
 5. **Derive control objectives** before naming products.  
-6. **Select mechanisms last**—ensure they can fail safe *and* be tested.  
-7. **Validate with counter-examples**—prove each invariant really holds.
+6. **Select mechanisms last**-ensure they can fail safe *and* be tested.  
+7. **Validate with counter-examples**-prove each invariant really holds.
 
 *→ Full treatise in [`docs/05-FirstPrinciples/`](docs/05-FirstPrinciples/First-Principles-Thinking.md).*
 
@@ -134,8 +134,8 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for full details.
 
 This repo follows a **dual-license** model:
 
-* **Code & IaC** — [Apache 2.0](LICENSE-APACHE)  
-* **Documentation** — [Creative Commons BY-SA 4.0](LICENSE-CC-BY-SA)
+* **Code & IaC** - [Apache 2.0](LICENSE-APACHE)  
+* **Documentation** - [Creative Commons BY-SA 4.0](LICENSE-CC-BY-SA)
 
 By contributing you agree your work is compatible with both licences.  
 See [`NOTICE`](NOTICE) for the directory mapping.
@@ -143,4 +143,4 @@ See [`NOTICE`](NOTICE) for the directory mapping.
 ---
 
 *Questions, feedback, or threat‑modelling war stories?*  
-Open an issue or join the discussion board... Let’s sharpen these architectures together.
+Open an issue or join the discussion board-let’s sharpen these architectures together.
