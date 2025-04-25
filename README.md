@@ -2,7 +2,7 @@
 
 Welcome to the **Security Architecture Master Repository**. This is a living blueprint, a mental gymnasium, and a creative forge for the next generation of security designers, threat defenders, and systems thinkers.
 
-Whether you're a curious analyst, a hands-on cloud engineer, or a seasoned strategist, this space is designed to stretch your mind, sharpen your design sense, and inspire you to architect security that is not only strong — but elegant, adaptive, and humane.
+Whether you're a curious analyst, a hands-on cloud engineer, or a seasoned strategist, this space is designed to stretch your mind, sharpen your design sense, and inspire you to architect security that is not only strong, it's elegant, adaptive, and humane.
 
 ---
 
