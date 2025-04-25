@@ -1,5 +1,5 @@
 # So You Want to Be a Security Architect?  
-### A Field Manual for Building—and Breaking—Secure Systems
+### A Field Manual for Building and Breaking Secure Systems
 
 Welcome.  
 This repository is a **public, vendor-neutral knowledge base** that teaches security architecture from first principles all the way to runnable, cloud-native reference implementations.  
