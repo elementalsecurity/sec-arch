@@ -16,7 +16,7 @@ In the age of ephemeral compute and asymmetric threats, Security Architects are 
 
 ---
 
-## 🔍 Repository Overview
+## Repository Overview
 
 ```
 security-architecture/
