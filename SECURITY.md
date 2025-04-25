@@ -1,3 +1,3 @@
 # Security Policy
 
-Email info@elementalsec.com with issues.
+Report vulnerabilities to security@example.com

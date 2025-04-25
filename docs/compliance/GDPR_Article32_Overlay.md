@@ -1,3 +1,3 @@
 # GDPR Overlay
 
-Mapping to Article 32.
+Controls mapped to Article 32.

@@ -1,3 +1,3 @@
 # Glossary
 
-Terms you need to master.
+Key terms and concepts.

@@ -1,3 +1,3 @@
 # NIS2 Overlay
 
-Mapping ZeroTrust to NIS2.
+Controls aligned with EU directive.

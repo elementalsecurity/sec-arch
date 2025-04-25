@@ -1,3 +1,3 @@
 # Contributing
 
-Fork, branch, PR, sign commits.
+Fork, branch, PR, sign commits, write tests.

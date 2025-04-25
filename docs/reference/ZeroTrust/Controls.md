@@ -1,3 +1,3 @@
-# Controls Mapping
+# Controls
 
-Map threats to mitigations.
+Mapped to threat model.

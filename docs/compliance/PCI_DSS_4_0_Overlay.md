@@ -1,3 +1,3 @@
 # PCI DSS Overlay
 
-Mapping ZeroTrust to PCI.
+Mapping ZeroTrust to PCI 4.0.

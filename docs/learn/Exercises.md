@@ -1,3 +1,3 @@
 # Exercises
 
-Hands-on thinking and analysis drills.
+Practical thought drills for architects.

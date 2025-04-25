@@ -1,3 +1,3 @@
 # Zero Trust Overview
 
-Scope, objectives, and components.
+Design goals and threat model.

@@ -1,3 +1,3 @@
-# Azure Lab
+# Lab: Azure Bicep
 
-Deploy Zero Trust with Bicep.
+Deploy Zero Trust resources.

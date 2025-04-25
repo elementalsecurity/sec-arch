@@ -1,3 +1,3 @@
-# Capital One Case
+# Case Study: Capital One
 
-S3 breach analysis.
+SSRF to S3 exfiltration.

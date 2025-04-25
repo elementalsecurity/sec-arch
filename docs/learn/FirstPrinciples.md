@@ -1,3 +1,3 @@
 # First Principles
 
-Mental models and reasoning techniques.
+What must never fail and how to reason from that.

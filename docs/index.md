@@ -1,14 +1,17 @@
 # So You Want to Be a Security Architect?
 
-Welcome to the Security Architecture Knowledge Base. This is your starting point for learning to think, build, and validate like a real-world architect.
+Welcome. This is a structured, free, and vendor-neutral knowledge base for learning security architecture from first principles.
 
-Start with [Primer](learn/Primer.md) and work through the structured sections:
+Start with the [Primer](learn/Primer.md) and continue through [the full roadmap](meta/Roadmap.md).
 
-1. First Principles  
-2. Patterns  
-3. Reference Architectures  
-4. Implementation Guides  
-5. Labs  
-6. Case Studies  
-7. Compliance Overlays  
-8. [Roadmap](meta/Roadmap.md)
+## Quick Start
+
+```bash
+git clone https://github.com/<you>/security-architecture-kb.git
+cd security-architecture-kb
+python -m venv .venv && source .venv/bin/activate
+pip install mkdocs-material
+mkdocs serve
+```
+
+Visit http://127.0.0.1:8000 in your browser.

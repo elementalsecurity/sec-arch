@@ -1,3 +1,3 @@
 # ISO 27001 Overlay
 
-Annex A mapping.
+Mapped to Annex A controls.

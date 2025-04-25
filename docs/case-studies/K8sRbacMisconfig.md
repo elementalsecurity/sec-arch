@@ -1,3 +1,3 @@
-# K8s RBAC Case
+# Case Study: K8s RBAC
 
-Misconfiguration incident.
+Misconfigured RoleBinding.

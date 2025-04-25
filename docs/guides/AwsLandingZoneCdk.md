@@ -1,3 +1,3 @@
-# AWS CDK Guide
+# AWS Landing Zone Guide
 
-Deploy a secure landing zone.
+Built with CDK.

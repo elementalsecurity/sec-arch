@@ -1,3 +1,3 @@
-# Insider Abuse Case
+# Case Study: Insider Threat
 
-Privileged abuse of SaaS data.
+Privileged misuse of data.

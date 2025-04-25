@@ -1,3 +1,3 @@
-# AWS Lab
+# Lab: AWS CDK
 
-Deploy Zero Trust with CDK.
+Deploy secure environments.

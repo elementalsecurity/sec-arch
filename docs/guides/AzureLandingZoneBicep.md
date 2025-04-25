@@ -1,3 +1,3 @@
-# Azure Bicep Guide
+# Azure Landing Zone Guide
 
-Deploy a secure landing zone.
+Built with Bicep.

@@ -1,3 +1,3 @@
 # Style Guide
 
-Naming, formatting, and contribution norms.
+CamelCase folders, clean Markdown, no emojis.

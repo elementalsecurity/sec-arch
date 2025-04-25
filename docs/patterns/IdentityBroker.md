@@ -1,3 +1,3 @@
 # Identity Broker Pattern
 
-Token issuance via identity broker.
+Token issuance and validation system.
