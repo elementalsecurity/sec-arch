@@ -15,7 +15,7 @@ We prioritise:
 
 * **First-principles reasoning** over cargo-cult “best practices”  
 * **Concrete artifacts** (diagrams ⇢ IaC ⇢ tests) over slideware  
-* **Open governance**—every control or pattern is open to scrutiny and debate
+* **Open governance** every control or pattern is open to scrutiny and debate
 
 ---
 
