@@ -1,4 +1,4 @@
-# Blueprint: Becoming a Security Architect
+# Section 00 – Blueprint: Becoming a Security Architect
 
 Welcome to the starting point.
 
