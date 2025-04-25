@@ -3,35 +3,19 @@ docs_dir: docs
 
 nav:
   - Home: index.md
-  - First Principles: 05-FirstPrinciples/First-Principles-Thinking.md
+  - Learn:
+      - Primer: learn/Primer.md
+      - First Principles: learn/FirstPrinciples.md
+      - Exercises: learn/Exercises.md
+      - Glossary: learn/Glossary.md
+  - Patterns: patterns/
   - Reference Architectures:
-      - Zero Trust: 10-ReferenceArchitectures/ZeroTrust/Overview.md
-  - Patterns:
-      - Identity Broker: 20-Patterns/IdentityBroker.md
-      - Network Segmentation: 20-Patterns/NetworkSegmentation.md
-      - Service-to-Service mTLS: 20-Patterns/ServiceToServiceMTLS.md
-      - Token-Based Row-Level Encryption: 20-Patterns/TokenBasedRowLevelEncryption.md
-  - Implementation Guides:
-      - Azure Bicep: 30-ImplementationGuides/AzureLandingZoneBicep.md
-      - AWS CDK: 30-ImplementationGuides/AwsLandingZoneCdk.md
-      - GCP Blueprint: 30-ImplementationGuides/GcpFoundationBlueprint.md
-      - FIDO2 Perimeter: 30-ImplementationGuides/Fido2Perimeter.md
-      - K8s Hardening: 30-ImplementationGuides/K8sHardening.md
-  - Labs:
-      - Azure Lab: 40-Labs/ZeroTrustAzureBicep/README.md
-      - AWS Lab: 40-Labs/ZeroTrustAwsCdk/README.md
-      - GCP Lab: 40-Labs/ZeroTrustGcpBlueprint/README.md
-      - Purple Team Lab: 40-Labs/PurpleTeamLoggingLab/README.md
-  - Case Studies:
-      - Capital One S3: 50-CaseStudies/CapitalOneS3.md
-      - K8s RBAC Misconfig: 50-CaseStudies/K8sRbacMisconfig.md
-      - Insider Abuse: 50-CaseStudies/InsiderAbuseSaaS.md
-  - Compliance Overlays:
-      - PCI DSS: 60-ComplianceOverlays/PCI_DSS_4_0_Overlay.md
-      - NIS2: 60-ComplianceOverlays/NIS2_Overlay.md
-      - GDPR Art.32: 60-ComplianceOverlays/GDPR_Article32_Overlay.md
-      - ISO27001 Annex A: 60-ComplianceOverlays/ISO27001_AnnexA_Overlay.md
+      - Zero Trust: reference/ZeroTrust/Overview.md
+  - Guides: guides/
+  - Labs: labs/
+  - Case Studies: case-studies/
+  - Compliance: compliance/
   - Meta:
-      - Roadmap: 90-Meta/Roadmap.md
-      - Style Guide: 90-Meta/StyleGuide.md
-      - Changelog: 90-Meta/CHANGELOG.md
+      - Roadmap: meta/Roadmap.md
+      - Style Guide: meta/StyleGuide.md
+      - Changelog: meta/CHANGELOG.md

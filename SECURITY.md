@@ -1,1 +1,3 @@
-If you discover a vulnerability, please email security@example.com
+# Security Policy
+
+Email security@example.com with issues.
