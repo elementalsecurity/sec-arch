@@ -1,0 +1,3 @@
+# Endpoint Security
+
+Endpoint Security focuses on securing end-user devices such as laptops, desktops...
