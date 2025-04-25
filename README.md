@@ -11,7 +11,7 @@ Whether you're a curious analyst, a hands-on cloud engineer, or a seasoned strat
 In the age of ephemeral compute and asymmetric threats, Security Architects are no longer gatekeepers, they are **systems designers, control translators, resilience builders, and trust engineers**. This repository exists to:
 
 - Give you the **mental models** and **technical frameworks** to architect with purpose.
-- Offer **practical tools and real-world examples** that don’t just explain what to do — but show you how and why.
+- Offer **practical tools and real-world examples** that don’t just explain what to do, it shows you how and why.
 - Help you turn **frameworks into architecture**, **risks into blueprints**, and **threats into design inputs**.
 
 ---
