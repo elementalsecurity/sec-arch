@@ -1,3 +1,3 @@
 # Security Policy
 
-Email security@example.com with issues.
+Email info@elementalsec.com with issues.
