@@ -80,7 +80,7 @@ If you have insights, patterns, diagrams, or even war stories... Please feel fre
 
 ---
 
-## Final Thought
+## Before I Go
 This isn’t just documentation. It’s **a place to think**. To stretch. To question the defaults and shape something better. Like great architecture in the physical world, your security design should be **functional**, **durable**, and **beautiful in its simplicity**.
 
 > "Security is not an overlay... It’s the structure, the symmetry, and the soul of the system."
