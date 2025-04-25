@@ -1,4 +1,4 @@
-# Section 08 – Strategic Models
+# Section 10 – Strategic Models
 
 This section introduces **strategic models** that guide how modern Security Architects think, lead, and design. Unlike compliance-driven frameworks or control catalogs, strategic models offer **mental models**, **design philosophies**, and **adaptive principles** to build security programs that are resilient, scalable, and adversary-aware.
 
