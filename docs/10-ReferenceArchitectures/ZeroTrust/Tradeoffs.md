@@ -1,7 +1,5 @@
-Call out items like:
+# Design Trade-Offs
 
-Short-lived tokens vs performance
-
-Sidecar proxy overhead vs security granularity
-
-Centralized KMS latency vs key-per-tenant isolation
+- Short-lived tokens improve security but may increase authentication overhead.
+- Sidecar proxy enforcement offers granular control at the cost of network latency.
+- Centralized KMS simplifies key management but introduces potential latency and single point of failure.
