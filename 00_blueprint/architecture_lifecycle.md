@@ -33,7 +33,7 @@ It helps clarify *when* to engage as a security architect, *what* to focus on at
 - [Becoming a Security Architect: The Blueprint](becoming_a_security_architect.md)
 - [Skill Progression Map](skill_progression_map.md)
 
-This lifecycle pairs closely with the [Skill Progression Map](skill_progression.md) to show how strategic thinking and architectural engagement evolve over time.
+This lifecycle pairs closely with the [Skill Progression Map](skill_progression_map.md) to show how strategic thinking and architectural engagement evolve over time.
 
 Both models reinforce that Security Architecture is not just a role, it's a rhythm — a continuous practice of aligning, designing, adapting, and improving.
 
