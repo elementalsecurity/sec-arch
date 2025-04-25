@@ -87,3 +87,5 @@ This isn’t just documentation. It’s **a place to think**. To stretch. To que
 
 Let’s architect wisely.
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
