@@ -31,7 +31,7 @@ It helps clarify *when* to engage as a security architect, *what* to focus on at
 
 ### Related Resources:
 - [Becoming a Security Architect: The Blueprint](becoming_a_security_architect.md)
-- [Skill Progression Map](skill_progression.md)
+- [Skill Progression Map](skill_progression_map.md)
 
 This lifecycle pairs closely with the [Skill Progression Map](skill_progression.md) to show how strategic thinking and architectural engagement evolve over time.
 
