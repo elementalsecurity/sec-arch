@@ -97,9 +97,9 @@ To implement ARCH:
 
 ## Summary
 The ARCH Tactical Implementation Guide transforms a security philosophy into a field-deployable playbook. It helps teams ask better questions:
-- "Where does the adversary gain advantage — and how do we break it?"
+- "Where does the adversary gain advantage and how do we break it?"
 - "What is the minimum we must protect to stay operational?"
-- "How do we make security easier to do right — and harder to ignore?"
+- "How do we make security easier to do right and harder to ignore?"
 
 By walking through phased deployment, mapped controls, team responsibilities, and measurable outcomes, this guide empowers Security Architects and leaders to build programs that are asymmetric by design, resilient under attack, and hardened by simplification.
 
