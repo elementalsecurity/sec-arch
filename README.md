@@ -3,11 +3,11 @@
 
 Welcome.  
 This repository is a **public, vendor-neutral knowledge base** that teaches security architecture from first principles all the way to runnable, cloud-native reference implementations.  
-Clone it, fork it, rip it apart, improve it—just keep the 🔍 rigor and 🧭 clarity.
+Clone it, fork it, rip it apart, improve it—just keep the rigor and clarity.
 
 ---
 
-## 1  Why This Repo Exists  — Mission
+## 1  Why This Repo Exists — Mission
 
 > **Raise the bar** for security design across the industry by sharing battle-tested patterns, end-to-end reference architectures, and hands-on labs—**free and forever**.
 
