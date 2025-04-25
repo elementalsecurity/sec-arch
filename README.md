@@ -143,4 +143,4 @@ See [`NOTICE`](NOTICE) for the directory mapping.
 ---
 
 *Questions, feedback, or threat‑modelling war stories?*  
-Open an issue or join the discussion board—let’s sharpen these architectures together.
+Open an issue or join the discussion board... Let’s sharpen these architectures together.
