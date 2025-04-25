@@ -1,0 +1,25 @@
+%%{init: { 'theme': 'default' }}%%
+flowchart TB
+  subgraph Internet
+    UserClient[User Client]
+  end
+  subgraph IdentityZone
+    Auth0[AuthN/AuthZ Broker]
+  end
+  subgraph WorkloadZone
+    APIGW[API Gateway]
+    ServiceA[Service A]
+    ServiceB[Service B]
+  end
+  subgraph DataZone
+    KMS[KMS / HSM]
+    Database[(Encrypted DB)]
+  end
+
+  UserClient -->|mTLS / JWT| APIGW
+  APIGW -->|Token Validation| Auth0
+  APIGW --> ServiceA
+  ServiceA --> ServiceB
+  ServiceA -->|DEK request| KMS
+  ServiceB -->|DEK request| KMS
+  Database -.->|Encrypted at rest| KMS
