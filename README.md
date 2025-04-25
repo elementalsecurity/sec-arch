@@ -3,7 +3,7 @@
 
 Welcome.  
 This repository is a **public, vendor-neutral knowledge base** that teaches security architecture from first principles all the way to runnable, cloud-native reference implementations.  
-Clone it, fork it, rip it apart, improve it—just keep the rigor and clarity.
+Clone it, fork it, rip it apart, improve it... Just keep the rigor and clarity.
 
 ---
 
