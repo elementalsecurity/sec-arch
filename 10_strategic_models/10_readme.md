@@ -2,7 +2,7 @@
 
 This section introduces **strategic models** that guide how modern Security Architects think, lead, and design. Unlike compliance-driven frameworks or control catalogs, strategic models offer **mental models**, **design philosophies**, and **adaptive principles** to build security programs that are resilient, scalable, and adversary-aware.
 
-Where compliance frameworks tell you **what to do**, strategic models challenge you to ask **why and how** — based on your threat landscape, mission objectives, and operational realities.
+Where compliance frameworks tell you **what to do**, strategic models challenge you to ask **why and how** is based on your threat landscape, mission objectives, and operational realities.
 
 ---
 
