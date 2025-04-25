@@ -1,0 +1,1 @@
+If you discover a vulnerability, please email security@example.com
