@@ -33,7 +33,7 @@ This Code of Conduct applies in all project spaces, including:
 ## Enforcement
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing the project maintainers at:
 
-**[INSERT EMAIL HERE]**
+**info@elementalsec.com**
 
 All reports will be reviewed and investigated promptly and confidentially.
 
