@@ -1,6 +1,6 @@
 # Fundamentals
 
-This section of the _"So You Want To Be A Security Architect?" repository covers the foundational elements every aspiring Security Architect must understand before designing systems or evaluating tools. These topics are the intellectual scaffolding that supports strategic decision-making and risk-aware architecture.
+This section of the "So You Want To Be A Security Architect?" repository covers the foundational elements every aspiring Security Architect must understand before designing systems or evaluating tools. These topics are the intellectual scaffolding that supports strategic decision-making and risk-aware architecture.
 
 While tools and technologies change frequently, the core principles, threat analysis skills, and risk frameworks discussed here remain constant and universally relevant.
 
