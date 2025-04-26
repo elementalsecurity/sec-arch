@@ -1,39 +1,44 @@
 # Summary
 
-This `SUMMARY.md` provides a clean navigation map of the "So You Want To Be a Security Architect?" repository.
+## Introduction
 
-Each section below links to major folders and key documents, matching the progressive structure from Track 00 to Track 15.
+- [Security Architecture Overview](00_security_architecture_overview/README.md)
 
----
+## Core Tracks
 
-## 📚 Repository Table of Contents
+- [01 Foundations of Security Architecture](01_foundations_security_architecture/README.md)
+- [02 Security Design Principles](02_security_design_principles/README.md)
+- [03 Security Architecture Mindsets and Thinking Models](03_security_mindsets_and_thinking_models/README.md)
+- [04 Threat Modeling Foundations](04_threat_modeling_foundations/README.md)
+- [05 Tools and Technologies](05_tools_and_technologies/README.md)
+- [06 Careers and Certifications](06_careers_and_certifications/README.md)
 
-- [00 Blueprint](00_blueprint/README.md)
-- [01 Introduction](01_introduction/README.md)
-- [02 Fundamentals](02_fundamentals/README.md)
-- [03 Security Domains](03_security_domains/README.md)
-- [04 Tools and Technologies](04_tools_and_technologies/README.md)
-- [05 Frameworks and Standards](05_frameworks_and_standards/README.md)
-- [06 Strategic Models](06_strategic_models/README.md)
+## Architecture Methodologies and Detection Frameworks
+
 - [07 Security Architecture Methodologies](07_security_architecture_methodologies/README.md)
 - [08 Threat Detection Methodologies](08_threat_detection_methodologies/README.md)
-- [09 Case Studies and Examples](09_case_studies_and_examples/README.md)
-- [10 Careers and Certifications](10_careers_and_certifications/README.md)
-- [11 Reference Architectures](11_reference_architectures/README.md)
-- [12 Architecture Review Playbook](12_architecture_review_playbook/README.md)
-- [13 Design Tradeoff Playbook](13_design_tradeoff_playbook/README.md)
-- [14 Architecture Portfolio Challenges](14_architecture_portfolio_challenges/README.md)
-- [15 Mental Models for Architects](15_mental_models_for_architects/README.md)
 
----
+## Secure System and Application Design
 
-## 📄 Supporting Documents
+- [09 Secure Network Architecture Concepts](09_secure_network_architecture/README.md)
+- [10 Secure Application Architecture Concepts](10_secure_application_architecture/README.md)
 
-- [Security Policy](security.md)
-- [Contribution Guidelines](contributing.md)
-- [Code of Conduct](code_of_conduct.md)
-- [License](LICENSE)
+## Patterns, Reviews, and Tradeoffs
 
----
+- [11 Reference Architectures and Secure Patterns](11_reference_architectures/README.md)
+- [12 Security Architecture Review Playbook](12_security_architecture_review_playbook/README.md)
+- [13 Architecture Tradeoff Decision Playbook](13_architecture_tradeoff_decision_playbook/README.md)
 
-*Explore tracks sequentially for a full curriculum or navigate based on your personal learning goals. Mastering security architecture is about structured thinking, principled design, and strategic execution.*
+## Growth and Applied Practice
+
+- [14 Portfolio Challenge Series for Aspiring Architects](14_portfolio_challenge_series/README.md)
+- [15 First Principles Thinking for Architects](15_first_principles_thinking/README.md)
+
+## Advanced Expansion Tracks
+
+- [16 Secure System Design Patterns](16_secure_system_design_patterns/README.md)
+- [17 Secure-by-Design Playbook](17_secure_by_design_playbook/README.md)
+- [18 Threat Modeling Deep Dive](18_threat_modeling_deep_dive/README.md)
+- [19 Architecture Decision Records (ADR) Track](19_architecture_decision_records/README.md)
+- [20 Security Architecture Maturity Model](20_security_architecture_maturity_model/README.md)
+
