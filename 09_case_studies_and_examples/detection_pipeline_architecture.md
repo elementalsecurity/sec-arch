@@ -3,7 +3,7 @@
 ## Context and Business Problem
 A multinational logistics company with both legacy data centers and cloud-native services lacked consistent visibility into security events across its environments. The internal SOC team relied on fragmented log sources, outdated SIEM rules, and manual triage. Leadership demanded better threat detection coverage, faster response times, and alignment to MITRE ATT&CK.
 
-The goal was to architect a modern, scalable detection and response pipeline that ingested telemetry from cloud, endpoint, identity, and network layers — while supporting threat hunting and automated remediation.
+The goal was to architect a modern, scalable detection and response pipeline that ingested telemetry from cloud, endpoint, identity, and network layers while supporting threat hunting and automated remediation.
 
 ---
 
@@ -80,9 +80,9 @@ The goal was to architect a modern, scalable detection and response pipeline tha
 - Enabled faster containment of credential-based attacks through SSO correlation logic
 
 ### Lessons Learned
-- Detection rules are not one-size-fits-all — tiered use case classification helped align effort to value
-- Enrichment is key — contextual metadata (identity, location, process lineage) reduced analyst fatigue
-- Tooling matters less than structure — the pipeline must be resilient, documented, and iterated
+- Detection rules are not one-size-fits-all with tiered use case classification helped align effort to value
+- Enrichment is key with contextual metadata (identity, location, process lineage) reduced analyst fatigue
+- Tooling matters less than structure and the pipeline must be resilient, documented, and iterated
 
 ---
 

@@ -80,6 +80,6 @@ Security architects must present their designs clearly, align them to business g
 
 ## Conclusion
 
-Communication is a core skill for security architects. A strong design must also be a **defensible design** — one that stakeholders understand, trust, and are willing to invest in.
+Communication is a core skill for security architects. A strong design must also be a **defensible design**, one that stakeholders understand, trust, and are willing to invest in.
 
 By framing security architecture through business alignment, risk tradeoff transparency, layered visuals, and validation outcomes, architects strengthen not only their technical credibility but also their strategic influence within the organization.

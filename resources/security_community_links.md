@@ -27,7 +27,7 @@ This guide provides curated entry points into communities, discussion forums, me
 - Bug bounty centric, but offers insight into real-world vulnerabilities, exploitation patterns, and remediation practices.
 
 ### [InfoSec Prep & Career Support](https://discord.gg/infosec)
-- Community-driven security education, career support, and cert planning — useful for emerging architects.
+- Community-driven security education, career support, and cert planning are useful for emerging architects.
 
 
 ---
@@ -38,7 +38,7 @@ This guide provides curated entry points into communities, discussion forums, me
 - Local chapters host in-person meetups, training, and workshops on AppSec, cloud, and secure architecture.
 
 ### [BSides Conferences](https://www.securitybsides.com/)
-- Security conferences in nearly every region — accessible, community-run, and often feature architecture, DevSecOps, and risk talks.
+- Security conferences in nearly every region are typically easy accessible, community-run, and often feature architecture, DevSecOps, and risk talks.
 
 ### [ISSA (Information Systems Security Association)](https://www.issa.org/)
 - Professional development org with regional chapters, mentoring programs, and certification pathways.
@@ -74,7 +74,7 @@ This guide provides curated entry points into communities, discussion forums, me
 ---
 
 ## Summary
-Security Architects thrive in communities that challenge their assumptions, introduce emerging techniques, and foster collaboration across disciplines. Join, contribute, ask questions, and stay connected — community insight is a force multiplier.
+Security Architects thrive in communities that challenge their assumptions, introduce emerging techniques, and foster collaboration across disciplines. Join, contribute, ask questions, and stay connected because community insight is a force multiplier.
 
 > "The best architects don’t just design systems... They shape the communities that evolve them."
 

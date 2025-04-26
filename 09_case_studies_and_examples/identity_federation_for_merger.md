@@ -76,7 +76,7 @@ The goal was to implement a secure identity federation architecture without brea
 - Detected and blocked five access attempts from deprovisioned accounts during early consolidation
 
 ### Lessons Learned
-- Don’t rush domain unification — namespace conflicts can silently break access
+- Don’t rush domain unification because namespace conflicts can silently break access
 - Access packages simplify temporary or scoped collaboration across tenants
 - MFA parity must be designed early to avoid inconsistent trust signals
 - External identities need clear visibility and expiration policies

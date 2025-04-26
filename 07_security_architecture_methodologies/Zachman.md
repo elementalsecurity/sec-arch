@@ -65,7 +65,7 @@ The Zachman Framework is a **6x6 matrix**:
 
 ## Limitations
 
-- Not a methodology — no process or governance guidance
+- Not a methodology... No process or governance guidance
 - Requires discipline to maintain artifact consistency
 - Can be difficult to adopt without supporting practices/tools
 

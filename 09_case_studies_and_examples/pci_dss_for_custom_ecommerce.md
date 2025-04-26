@@ -86,9 +86,9 @@ Security and engineering leadership needed to ensure:
 - SOC reduced alert fatigue by prioritizing CHD-related anomaly detections
 
 ### Lessons Learned
-- Tokenization is your friend — moving CHD handling to third-party JS reduced audit complexity
+- Tokenization is your friend by moving CHD handling to third-party JS reduced audit complexity
 - Early alignment with developers on OWASP Top 10 remediation saved rework late in testing
-- Treat PCI DSS like a system design problem, not just a checklist — architecture drove compliance
+- Treat PCI DSS like a system design problem, not just a checklist AND architecture drove compliance
 
 ---
 
