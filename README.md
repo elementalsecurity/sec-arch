@@ -10,6 +10,9 @@ It is designed as a progressive, professional development journey: starting from
 
 Every track is intended to be both educational and operational. Whether you are preparing for architecture roles, improving your organization's capabilities, or seeking to understand the "why" behind modern security architecture practices, this repository is built to guide you.
 
+```markdown
+[Start Here ➔](START_HERE.md)
+```
 ---
 
 ## Purpose of This Repository
