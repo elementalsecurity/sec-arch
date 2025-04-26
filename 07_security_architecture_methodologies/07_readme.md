@@ -1,4 +1,4 @@
-# Section 07 – Security Architecture Methodologies
+# Security Architecture Methodologies
 
 Security architecture is built on structure. It is not enough to understand technical controls. A Security Architect must also be able to apply **proven, structured methodologies** to analyze, design, document, and govern complex systems.
 

@@ -1,4 +1,4 @@
-# Section 08 – Threat Detection Methodologies
+# Threat Detection Methodologies
 
 Threat detection is not just a technical function. It is an architectural discipline that requires structured models to understand adversary behavior, map attack paths, and guide defensive strategies.
 

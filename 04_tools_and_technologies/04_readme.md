@@ -1,4 +1,4 @@
-# Section 04 – Tools and Technologies
+# Tools and Technologies
 
 Welcome to the **Tools and Technologies** section of the _"So You Want To Be A Security Architect?"_ repository. This section provides a comprehensive guide to the practical platforms, products, and technical capabilities that Security Architects must evaluate, design with, or directly support.
 

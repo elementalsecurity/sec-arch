@@ -1,4 +1,4 @@
-# Section 01 – Introduction
+# Introduction
 
 Welcome to the **Introduction** of the _"So You Want To Be A Security Architect?"_ repository. This section lays the foundation for understanding what Security Architecture is, why it matters, and what the role of a Security Architect truly entails.
 

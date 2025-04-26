@@ -1,4 +1,4 @@
-# Section 05 – Frameworks and Standards
+# Frameworks and Standards
 
 This section of the _"So You Want To Be A Security Architect?"_ repository provides detailed, practical insights into the most widely used **security frameworks**, **compliance mandates**, and **industry standards** that inform and guide architectural design decisions.
 

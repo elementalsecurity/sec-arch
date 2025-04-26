@@ -1,4 +1,4 @@
-# Section 06 – Design Strategy
+# Design Strategy
 
 This section introduces **design strategy** that guide how modern Security Architects think, lead, and design. Unlike compliance-driven frameworks or control catalogs, strategic models offer **mental models**, **design philosophies**, and **adaptive principles** to build security programs that are resilient, scalable, and adversary-aware.
 

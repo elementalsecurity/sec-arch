@@ -1,4 +1,4 @@
-# Section 11 – Reference Architectures
+# Reference Architectures
 
 This section provides foundational reference architectures that aspiring and practicing Security Architects can use to design secure, scalable, and resilient systems.
 

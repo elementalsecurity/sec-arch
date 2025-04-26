@@ -1,4 +1,4 @@
-# Section 03 – Security Domains
+# Security Domains
 
 This section introduces the **core security domains** that every Security Architect must understand and design for. Each domain represents a functional area where specific risks emerge, and where tailored controls, policies, and design patterns must be applied.
 

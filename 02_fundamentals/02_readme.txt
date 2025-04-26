@@ -1,4 +1,4 @@
-# Section 02 – Fundamentals
+# Fundamentals
 
 This section of the _"So You Want To Be A Security Architect?" repository covers the foundational elements every aspiring Security Architect must understand before designing systems or evaluating tools. These topics are the intellectual scaffolding that supports strategic decision-making and risk-aware architecture.
 

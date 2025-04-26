@@ -1,4 +1,4 @@
-# Section 10 – Careers and Certifications
+# Careers and Certifications
 
 This section of the _"So You Want To Be A Security Architect?"_ repository is dedicated to helping individuals understand what it takes to become a Security Architect—from foundational knowledge and career progression to certifications and real-world experience.
 
