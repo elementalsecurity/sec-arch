@@ -36,5 +36,5 @@ This section is organized into six focused guides:
 ## Philosophical Approach
 This section favors **clarity over hype**. It is built on the belief that:
 - Security Architecture is earned through layered experience, not a single certification
-- There are many valid paths into the profession—your background can be your advantage
+- There are many valid paths into the profession and your background can be your advantage
 - Competency, communication, and context-awareness matter more than titles
