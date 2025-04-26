@@ -8,7 +8,7 @@ Thank you for helping improve the quality and security of this repository. We we
 If you discover a vulnerability in this repository or any associated files, please follow these steps:
 
 1. **Do not open a public issue or pull request.**
-2. Instead, email the maintainer directly at: **[INSERT EMAIL HERE]**
+2. Instead, email the maintainer directly at: **info@elementalsec.com**
 3. Include:
    - A clear description of the issue
    - Steps to reproduce, if applicable
@@ -42,7 +42,7 @@ This repository is intended for public consumption and education, but we maintai
 ## Contact
 For non-sensitive security questions, feel free to open an issue labeled `security-question`.
 
-For disclosures or time-sensitive risks, contact: **[INSERT EMAIL HERE]**
+For disclosures or time-sensitive risks, contact: **info@elementalsec.com**
 
 Thank you for supporting responsible open-source security.
 
