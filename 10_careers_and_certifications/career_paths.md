@@ -79,3 +79,7 @@ For those advancing further:
 There are multiple viable paths to Security Architecture, and no single credential or job title guarantees it. The role is earned by combining **deep domain knowledge, design ability, and cross-functional influence**. Whether you come from red teaming, infrastructure, GRC, or cloud engineering, the key is your ability to bridge strategy with security implementation.
 
 > The path is nonlinear, but deliberate... Security architects are made, not appointed.
+
+Interested in learning about the specific roles available once you become a Security Architect?  
+See [Security Architecture Roles and Career Pathways](security_architecture_roles.md).
+
