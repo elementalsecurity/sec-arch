@@ -8,7 +8,7 @@ A global retail company with over 800 stores, regional warehouses, and multiple 
 - Security gaps between corporate IT, e-commerce platforms, and store infrastructure
 - Pressure to comply with PCI DSS 4.0 and evolving data protection laws (GDPR, CCPA)
 
-The goal was to implement Zero Trust Architecture (ZTA) to secure access and data flows across all operating environments including stores, headquarters, logistics, and cloud workloads — without degrading performance or user experience.
+The goal was to implement Zero Trust Architecture (ZTA) to secure access and data flows across all operating environments including stores, headquarters, logistics, and cloud workloads without degrading performance or user experience.
 
 ---
 
