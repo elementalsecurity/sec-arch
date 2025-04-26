@@ -1,39 +1,62 @@
-# Security Domains
+# 03 Security Domains
 
-This section introduces the **core security domains** that every Security Architect must understand and design for. Each domain represents a functional area where specific risks emerge, and where tailored controls, policies, and design patterns must be applied.
+Security Architecture is not a monolith. It is an interconnected system of specialized domains, each addressing distinct risks, threats, and design considerations.
 
-These domains are not silos — they intersect constantly in modern architectures. A strong Security Architect knows how to design across domains, ensuring that identity supports data protection, that network controls reinforce cloud segmentation, and that governance is built into every layer.
+This section introduces the **core security domains** every Security Architect must master. These domains represent the functional building blocks of modern security architecture. A skilled architect not only understands each domain individually but also designs solutions that bridge and reinforce them collectively.
+
+Strong security architecture connects domains into cohesive systems where identity protects data, network segmentation supports cloud resilience, and governance ensures operational transparency.
 
 ---
 
-## What You'll Learn in This Section
-- The purpose and scope of each security domain
-- Common threats, risks, and architectural concerns
-- Best practices and controls aligned to each area
-- How these domains relate to compliance and business outcomes
+## Purpose of This Section
 
-This section provides the building blocks for cross-domain architectural thinking.
+- Define the major domains of Security Architecture.
+- Explain the scope, risks, and design principles of each domain.
+- Highlight the interdependencies across domains.
+- Provide a foundation for cross-domain architectural thinking.
+
+---
+
+## What You Will Learn
+
+| Domain | Purpose |
+|:-------|:--------|
+| **Identity and Access Management (IAM)** | Design secure authentication, authorization, and access governance across systems and users. |
+| **Infrastructure Security** | Protect foundational compute, storage, and hypervisor layers that host modern applications. |
+| **Network Security** | Architect secure network topologies, segmentation models, and communication protections. |
+| **Application Security** | Build security directly into software development, deployment, and operations lifecycles. |
+| **Cloud Security** | Address cloud-native risks, shared responsibility models, and multi-cloud design patterns. |
+| **Compliance and Governance** | Align security design with regulatory frameworks, organizational policies, and auditability requirements. |
+| **Data Security and Privacy** | Protect sensitive data across its lifecycle with encryption, classification, and privacy controls. |
+| **Endpoint Security** | Secure user devices, mobile assets, and edge systems against compromise and misuse. |
 
 ---
 
 ## Contents
 
 | File | Description |
-|------|-------------|
-| `identity_and_access_management.md` | Covers authentication, authorization, federation, and privileged access【411†identity_and_access_management.md】 |
-| `infrastructure_security.md` | Focuses on securing foundational systems, hypervisors, and compute layers【412†infrastructure_security.md】 |
-| `network_security.md` | Details zoning, segmentation, firewalls, IDS/IPS, and zero trust network design【413†network_security.md】 |
-| `application_security.md` | Explains how to secure software design, SDLC, APIs, and web interfaces【414†application_security.md】 |
-| `cloud_security.md` | Covers cloud-native risks, control responsibilities, and architecture patterns across AWS, Azure, GCP【415†cloud_security.md】 |
-| `compliance_governance.md` | Outlines the role of security policy, control frameworks, and auditability in architectural governance【416†compliance_governance.md】 |
-| `data_security_privacy.md` | Focuses on encryption, classification, DLP, and regulatory compliance (e.g., GDPR)【417†data_security_privacy.md】 |
-| `endpoint_security.md` | Details protections for end-user devices, EDR, configuration hardening, and endpoint compliance【418†endpoint_security.md】 |
+|:-----|:------------|
+| `identity_and_access_management.md` | Principles and patterns for IAM, including authentication, authorization, and privileged access management. |
+| `infrastructure_security.md` | Secure design of foundational infrastructure components and services. |
+| `network_security.md` | Segmentation strategies, network monitoring, and secure communications. |
+| `application_security.md` | Techniques for embedding security into the software development lifecycle and application architectures. |
+| `cloud_security.md` | Cloud-native security models, risks, and control frameworks across public, private, and hybrid clouds. |
+| `compliance_governance.md` | Security governance frameworks, policy enforcement, and compliance integration. |
+| `data_security_privacy.md` | Data protection strategies including encryption, data loss prevention, and privacy compliance. |
+| `endpoint_security.md` | Securing end-user devices, hardened configurations, and endpoint detection and response (EDR). |
 
 ---
 
 ## How to Use This Section
-- Use this section to explore individual domains where you may need deeper understanding
-- Cross-reference these with the Tools, Case Studies, and Frameworks sections for context
-- Apply these concepts to architecture review boards, control design, or maturity assessments
 
-> "Security Architecture is not just about what you protect... It’s about where, how, and why you protect it. Domains give you the map."
+- Study each domain individually to build specialized knowledge.
+- Cross-reference domains to understand architectural intersections.
+- Use domain knowledge to design layered, defense-in-depth architectures.
+- Apply these foundations during architecture reviews, maturity assessments, and strategic planning.
+
+> "Mastering domains is not about dividing security into silos. It is about weaving them into a resilient fabric that strengthens everything it touches."
+
+---
+
+*Security Architecture excellence comes from thinking across domains, designing at intersections, and always building toward unified resilience.*
+
