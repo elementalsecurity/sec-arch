@@ -1,12 +1,12 @@
 # Summary
 
-This `SUMMARY.md` file provides a navigational map of the "So You Want To Be a Security Architect?" repository. It reflects the current structure and intended learning flow across all tracks.
+This `SUMMARY.md` provides a clean navigation map of the "So You Want To Be a Security Architect?" repository.
 
-Each section below links to major folders and key documents to guide exploration.
+Each section below links to major folders and key documents, matching the progressive structure from Track 00 to Track 15.
 
 ---
 
-## Table of Contents
+## 📚 Repository Table of Contents
 
 - [00 Blueprint](00_blueprint/README.md)
 - [01 Introduction](01_introduction/README.md)
@@ -27,13 +27,13 @@ Each section below links to major folders and key documents to guide exploration
 
 ---
 
-## Key Templates and Supporting Materials
+## 📄 Supporting Documents
 
-- [Security.md](security.md)
-- [Contributing.md](contributing.md)
-- [Code_of_conduct.md](code_of_conduct.md)
+- [Security Policy](security.md)
+- [Contribution Guidelines](contributing.md)
+- [Code of Conduct](code_of_conduct.md)
 - [License](LICENSE)
 
 ---
 
-*This repository is designed for modular exploration. Each track can stand alone but together they form a comprehensive path toward professional security architecture mastery.*
+*Explore tracks sequentially for a full curriculum or navigate based on your personal learning goals. Mastering security architecture is about structured thinking, principled design, and strategic execution.*
