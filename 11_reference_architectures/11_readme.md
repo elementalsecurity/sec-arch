@@ -11,7 +11,7 @@ Each model includes:
 - Practical diagrams (where applicable)
 - Guidance on when and how to adapt it for real-world use
 
----
+
 
 ## Initial Available Models
 
@@ -33,7 +33,7 @@ Each model includes:
 - **Privacy by Design Architecture for GDPR Compliance**
   Building systems that respect user privacy from the ground up.
 
----
+
 
 ## How to Use These Models
 
@@ -43,13 +43,6 @@ Each model includes:
 
 Architecture is about structured thinking, not rigid compliance. Use these models as tools for clarity, adaptability, and impact.
 
----
+
 
 *Security Architecture is the art of shaping complexity into trusted systems.*
-
-
-
----
-© 2025 Elemental Security Solutions, LLC
-Part of the Security Architecture Knowledge Base.
-Licensed under the MIT License.

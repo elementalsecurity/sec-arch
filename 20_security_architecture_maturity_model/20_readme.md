@@ -4,7 +4,7 @@ Security architecture practices evolve over time as organizations grow in comple
 
 This track introduces a Security Architecture Maturity Model focused on building resilient, defensible, and adaptive security architectures aligned with business needs.
 
----
+
 
 ## Purpose of This Track
 
@@ -13,12 +13,12 @@ This track introduces a Security Architecture Maturity Model focused on building
 - Guide organizations in prioritizing maturity improvements strategically.
 - Help align technical security efforts with business, compliance, and operational priorities.
 
----
+
 
 ## What This Track Includes
 
 | Document | Purpose |
-|:---------|:--------|
+|:|:--|
 | **Maturity Model Levels** | Define each maturity level and its characteristics. |
 | **Maturity Model Domains** | Break down maturity across key capability domains (e.g., Governance, Design, Threat Modeling, Tooling). |
 | **Maturity Model Self-Assessment** | Provide a checklist-based tool for benchmarking current maturity. |
@@ -26,7 +26,7 @@ This track introduces a Security Architecture Maturity Model focused on building
 
 Additional refinements or expansions may be added over time.
 
----
+
 
 ## Why a Security Architecture Maturity Model Matters
 
@@ -38,13 +38,6 @@ Additional refinements or expansions may be added over time.
 
 Security architecture maturity is not about achieving perfection. It is about continuously improving the ability to design, build, and operate systems that are secure by design, resilient under pressure, and aligned to the mission they support.
 
----
+
 
 *Security architecture is not a project. It is an evolving capability that grows stronger through deliberate practice, reflection, and adaptation.*
-
-
-
----
-© 2025 Elemental Security Solutions, LLC
-Part of the Security Architecture Knowledge Base.
-Licensed under the MIT License.

@@ -70,6 +70,7 @@ The **Cyber Kill Chain** remains a valuable foundation for security operations, 
 
 
 
+
 ---
 © 2025 Elemental Security Solutions, LLC
 Part of the Security Architecture Knowledge Base.

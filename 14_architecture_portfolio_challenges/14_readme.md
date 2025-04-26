@@ -6,7 +6,7 @@ This section provides guided challenges that aspiring Security Architects can us
 
 Completing these exercises helps develop the habits of mind and quality of output expected from professional architects.
 
----
+
 
 ## Purpose of Portfolio Challenges
 
@@ -15,18 +15,18 @@ Completing these exercises helps develop the habits of mind and quality of outpu
 - Create work artifacts that can be used for personal development, interviews, or mentorship.
 - Prepare for the ambiguity and tradeoff pressures of real-world system design.
 
----
+
 
 ## What This Playbook Includes
 
 | Document | Purpose |
-|:---------|:--------|
+|:|:--|
 | **Foundational Challenges** | Basic exercises to practice architecture fundamentals and security principles |
 | **Advanced Challenges** | Complex, multi-domain challenges that simulate real-world systems |
 
 Additional guided exercises or templates may be added over time.
 
----
+
 
 ## How to Use These Challenges
 
@@ -35,7 +35,7 @@ Additional guided exercises or templates may be added over time.
 - **Prioritize clarity over quantity:** A few well-reasoned challenges are more valuable than many shallow ones.
 - **Iterate and improve:** Revise your work as you learn more. Architecture is a living discipline, not a one-time output.
 
----
+
 
 ## Recommended Approach
 
@@ -49,13 +49,6 @@ Additional guided exercises or templates may be added over time.
    - Justifications and mitigations
 4. (Optional) Share your portfolio with mentors or peers for feedback.
 
----
+
 
 *Security Architects are not measured only by what they know. They are measured by how they think, how they reason, and how well they can lead systems from concept to trusted reality.*
-
-
-
----
-© 2025 Elemental Security Solutions, LLC
-Part of the Security Architecture Knowledge Base.
-Licensed under the MIT License.

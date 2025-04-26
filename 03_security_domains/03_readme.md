@@ -59,10 +59,3 @@ Strong security architecture connects domains into cohesive systems where identi
 ---
 
 *Security Architecture excellence comes from thinking across domains, designing at intersections, and always building toward unified resilience.*
-
-
-
----
-© 2025 Elemental Security Solutions, LLC
-Part of the Security Architecture Knowledge Base.
-Licensed under the MIT License.

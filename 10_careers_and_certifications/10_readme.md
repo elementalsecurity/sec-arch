@@ -4,7 +4,7 @@ This section of the _"So You Want To Be A Security Architect?"_ repository is de
 
 Security Architecture is a **multidisciplinary discipline** that blends technology, risk management, and business strategy. Navigating this path requires more than just technical skill; it demands systems thinking, communication ability, and a deep understanding of how security decisions impact an organization.
 
----
+
 
 ## What This Section Covers
 This section is organized into six focused guides:
@@ -16,7 +16,7 @@ This section is organized into six focused guides:
 5. **Portfolio and Projects** – Understand how to showcase your capabilities through practical projects, diagrams, threat models, and documentation.
 6. **Mentorship and Communities** – How to find mentorship, join security communities, and stay informed across evolving domains.
 
----
+
 
 ## Who This Section Is For
 - Professionals transitioning into security from IT, software engineering, or audit
@@ -24,23 +24,17 @@ This section is organized into six focused guides:
 - New graduates and self-taught learners who want to build a clear path forward
 - Practicing Security Architects looking to validate or expand their knowledge
 
----
+
 
 ## How to Use This Section
 - Read sequentially for a full career-planning experience, or jump to the section most relevant to your current phase.
 - Treat this as a **living guide** and as the industry evolves, so should your understanding of what it takes to thrive.
 - Use the roadmap and project ideas to build a public or private **portfolio** that demonstrates capability, not just credentials.
 
----
+
 
 ## Philosophical Approach
 This section favors **clarity over hype**. It is built on the belief that:
 - Security Architecture is earned through layered experience, not a single certification
 - There are many valid paths into the profession and your background can be your advantage
 - Competency, communication, and context-awareness matter more than titles
-
-
----
-© 2025 Elemental Security Solutions, LLC
-Part of the Security Architecture Knowledge Base.
-Licensed under the MIT License.

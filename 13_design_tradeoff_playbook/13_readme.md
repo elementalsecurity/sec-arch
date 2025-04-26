@@ -4,7 +4,7 @@ Security Architecture is not the pursuit of perfect systems. It is the disciplin
 
 This section provides guidance for understanding, evaluating, and documenting design tradeoffs. It focuses on helping Security Architects think clearly about risk, business value, and system quality when not all objectives can be maximized at once.
 
----
+
 
 ## Why Tradeoffs Matter
 
@@ -17,18 +17,18 @@ Every system design is shaped by constraints:
 
 Security Architects must navigate these forces without losing sight of core security principles. Recognizing and managing tradeoffs thoughtfully is what differentiates strategic architects from tactical security practitioners.
 
----
+
 
 ## What This Playbook Includes
 
 | Document | Purpose |
-|:---------|:--------|
+|:|:--|
 | **Tradeoff Patterns** | Common categories of tradeoffs and risk considerations |
 | **Tradeoff Case Studies** | Real-world examples of tradeoffs made in system design |
 
 Additional decision templates and guidance may be added over time.
 
----
+
 
 ## How to Use This Playbook
 
@@ -39,13 +39,6 @@ Additional decision templates and guidance may be added over time.
 
 Architects who understand tradeoffs drive better business outcomes and build systems that are resilient not only to threats, but also to operational and market realities.
 
----
+
 
 *Good security architecture is not about winning every battle. It is about winning the ones that matter most, with clarity about the risks and consequences of the ones you choose not to fight.*
-
-
-
----
-© 2025 Elemental Security Solutions, LLC
-Part of the Security Architecture Knowledge Base.
-Licensed under the MIT License.

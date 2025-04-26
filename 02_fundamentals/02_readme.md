@@ -51,11 +51,3 @@ Without mastery of these fundamentals, secure architecture becomes guesswork. Wi
 ---
 
 Security Architecture mastery begins here, not in tools or technologies, but in disciplined thinking, principled design, and risk-informed action.
-
-
-
-
----
-© 2025 Elemental Security Solutions, LLC
-Part of the Security Architecture Knowledge Base.
-Licensed under the MIT License.

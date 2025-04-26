@@ -56,9 +56,3 @@ This section encourages **critical thinking, comparative analysis, and practical
 ---
 
 Let’s dive into the real-world tools that make our architectural strategies resilient, observable, and enforceable.
-
-
----
-© 2025 Elemental Security Solutions, LLC
-Part of the Security Architecture Knowledge Base.
-Licensed under the MIT License.

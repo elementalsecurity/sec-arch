@@ -98,6 +98,7 @@ The **Diamond Model** is a powerful analytical tool that helps defenders and int
 
 > "At the heart of every intrusion event lies a relationship between adversary, infrastructure, capability, and victim. The Diamond Model reveals these links." — Caltagirone, Pendergast, Betz
 
+
 ---
 © 2025 Elemental Security Solutions, LLC
 Part of the Security Architecture Knowledge Base.

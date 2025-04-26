@@ -4,7 +4,7 @@ Security architecture reviews are a critical checkpoint in the system developmen
 
 This section provides a structured approach to conducting Security Architecture Reviews that are thorough, collaborative, and focused on enabling secure outcomes without becoming barriers to delivery.
 
----
+
 
 ## Purpose of Architecture Reviews
 
@@ -16,12 +16,12 @@ This section provides a structured approach to conducting Security Architecture 
 
 Architecture Reviews are not about finding perfection. They are about finding, communicating, and mitigating risk in a way that supports business objectives.
 
----
+
 
 ## What This Playbook Includes
 
 | Document | Purpose |
-|:---------|:--------|
+|:|:--|
 | **Architecture Review Process** | Step-by-step workflow for planning, conducting, and closing reviews |
 | **Architecture Review Checklist** | Practical checklist of key security domains, design patterns, and risk areas to assess |
 | **Architecture Review Intake Template** | Standardized form to collect project details and scope review activities |
@@ -30,7 +30,7 @@ Architecture Reviews are not about finding perfection. They are about finding, c
 
 More guides and templates may be added over time as your review processes mature.
 
----
+
 
 ## How to Use This Playbook
 
@@ -40,11 +40,6 @@ More guides and templates may be added over time as your review processes mature
 
 Architecture Reviews should build bridges, not walls. A good review improves system quality, reduces future rework, and builds trust between security and delivery teams.
 
----
+
 
 *The goal of an architecture review is not to control decisions. It is to bring risk into focus, so the organization can make better-informed choices.*
-
----
-© 2025 Elemental Security Solutions, LLC
-Part of the Security Architecture Knowledge Base.
-Licensed under the MIT License.

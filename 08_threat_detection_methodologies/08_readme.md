@@ -37,10 +37,3 @@ Mastery of detection methodologies transforms a security program from reactive a
 ---
 
 *Threat detection is not about chasing logs. It is about anticipating behavior, designing resilience, and seeing attacks unfold before they succeed.*
-
-
-
----
-© 2025 Elemental Security Solutions, LLC
-Part of the Security Architecture Knowledge Base.
-Licensed under the MIT License.

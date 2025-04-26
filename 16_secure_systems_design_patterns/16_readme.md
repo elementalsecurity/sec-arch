@@ -10,7 +10,7 @@ Secure Design Patterns provide reusable solutions to common security design chal
 
 This track introduces a curated library of secure system design patterns across key domains.
 
----
+
 
 ## Purpose of This Track
 
@@ -19,7 +19,7 @@ This track introduces a curated library of secure system design patterns across 
 - Help architects reason about tradeoffs and operational impacts of different designs
 - Support faster, more consistent secure architecture reviews and project designs
 
----
+
 
 ## What This Track Includes
 
@@ -30,12 +30,12 @@ Each design pattern will include:
 - **Optional Diagram:** Visual representation of the pattern
 - **Implementation Notes:** Practical tips for deploying the pattern at different scales
 
----
+
 
 ## Planned Design Pattern Documents
 
 | Pattern | Description |
-|:--------|:------------|
+|:--|:|
 | Identity Federation Pattern | Securely federating identity across multiple domains or organizations |
 | API Gateway Security Pattern | Protecting APIs using secure gateway architectures |
 | Secrets Management Pattern | Storing, accessing, and rotating sensitive secrets securely |
@@ -44,13 +44,6 @@ Each design pattern will include:
 
 Additional patterns may be added over time.
 
----
+
 
 *Secure systems are not built from scratch every time. They are composed deliberately from well-understood, well-reasoned building blocks. Design patterns make good architecture repeatable.*
-
-
-
----
-© 2025 Elemental Security Solutions, LLC
-Part of the Security Architecture Knowledge Base.
-Licensed under the MIT License.

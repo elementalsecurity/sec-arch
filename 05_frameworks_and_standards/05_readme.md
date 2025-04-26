@@ -37,9 +37,3 @@ This section is vital for aligning security architecture with real-world complia
 
 > "Security Architecture is only as strong as the frameworks that inform it. Mastering them is the foundation of confident, compliant design."
 
-
-
----
-© 2025 Elemental Security Solutions, LLC
-Part of the Security Architecture Knowledge Base.
-Licensed under the MIT License.

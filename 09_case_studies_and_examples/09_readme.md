@@ -4,7 +4,7 @@ This section of the _"So You Want To Be A Security Architect?"_ repository is de
 
 These examples help aspiring and current Security Architects understand what "good" looks like when applied to complex, high-stakes environments.
 
----
+
 
 ## What You'll Find Here
 Each case study is structured to highlight:
@@ -24,7 +24,7 @@ These aren't sanitized textbook exercises. They're practical, nuanced, and drawn
 - Secure DevOps in regulated environments
 - Scalable detection and response architectures
 
----
+
 
 ## Who This Is For
 - Architects seeking tactical reference patterns
@@ -32,12 +32,12 @@ These aren't sanitized textbook exercises. They're practical, nuanced, and drawn
 - Analysts and GRC professionals wanting context for security controls
 - Interviewees preparing to answer “walk me through an architecture you’ve designed”
 
----
+
 
 ## Case Study Directory
 
 | Case Study | Focus Area |
-|------------|-------------|
+||-|
 | `secure-cloud-migration.md` | Azure migration with full-stack security integration |
 | `zero-trust-retail.md` | Zero Trust implementation for global retail environments |
 | `identity-federation-for-merger.md` | Post-merger identity unification using Entra ID and SAML federation |
@@ -45,7 +45,7 @@ These aren't sanitized textbook exercises. They're practical, nuanced, and drawn
 | `pci-dss-for-custom-ecommerce.md` | Scoping and securing a homegrown checkout platform for PCI DSS 4.0 |
 | `secure-devops-in-a-regulated-pipeline.md` | Embedding security gates and IaC scanning into HIPAA-bound CI/CD workflows |
 
----
+
 
 ## How to Use These
 - Use them as **blueprints** for internal projects
@@ -53,15 +53,9 @@ These aren't sanitized textbook exercises. They're practical, nuanced, and drawn
 - Reference them during interviews or internal design reviews
 - Build out variations of these as your own portfolio pieces
 
----
+
 
 ## Summary
 Security Architecture is defined by what you build under pressure. This section shows how strong architecture is not just about selecting controls, it's about how you apply them to serve both security and business outcomes. The best Security Architects think in systems, communicate in stories, and document with clarity.
 
 > "Architecture is where strategy meets reality. This is what it looks like in the wild."
-
-
----
-© 2025 Elemental Security Solutions, LLC
-Part of the Security Architecture Knowledge Base.
-Licensed under the MIT License.

@@ -6,7 +6,7 @@ Moving beyond lightweight threat identification, this track explores structured 
 
 This deeper understanding of threat modeling strengthens Secure-by-Design practices and builds more resilient, trustworthy systems.
 
----
+
 
 ## Purpose of This Track
 
@@ -16,12 +16,12 @@ This deeper understanding of threat modeling strengthens Secure-by-Design practi
 - Explore automation approaches that enhance, but do not replace, human analysis.
 - Supply starter templates to accelerate adoption and reduce friction.
 
----
+
 
 ## What This Track Includes
 
 | Document | Purpose |
-|:---------|:--------|
+|:|:--|
 | **Threat Modeling Methods** | Overview of STRIDE, PASTA, VAST, Attack Trees, and other approaches. |
 | **Lightweight Threat Modeling Guidance** | Scalable strategies for embedding threat modeling into agile workflows. |
 | **Building and Using Threat Libraries** | Creating reusable threat catalogs to accelerate and standardize analysis. |
@@ -30,7 +30,7 @@ This deeper understanding of threat modeling strengthens Secure-by-Design practi
 
 Additional tools and refinements may be added over time.
 
----
+
 
 ## Why Threat Modeling Matters
 
@@ -42,11 +42,6 @@ Additional tools and refinements may be added over time.
 
 Threat modeling is not just for compliance or security teams. It is a thinking discipline that improves the quality, safety, and trustworthiness of every system you design.
 
----
+
 
 *Threat modeling is not about predicting everything. It is about systematically asking, "What could go wrong?" — and then designing as if you expect it to.*
-
----
-© 2025 Elemental Security Solutions, LLC
-Part of the Security Architecture Knowledge Base.
-Licensed under the MIT License.

@@ -6,7 +6,7 @@ Mental models are simplified representations of how complex systems work. They h
 
 This section introduces critical mental models that strengthen an architect's ability to design, communicate, and lead secure systems.
 
----
+
 
 ## Why Mental Models Matter
 
@@ -22,18 +22,18 @@ Security Architects who master mental models:
 - Navigate technical, business, and human factors with confidence.
 - Build trust with both engineers and executives.
 
----
+
 
 ## What This Playbook Includes
 
 | Document | Purpose |
-|:---------|:--------|
+|:|:--|
 | **Core Mental Models** | Foundational thinking tools that apply across domains (systems thinking, first principles, tradeoff curves) |
 | **Security Architecture Specific Models** | Mental models focused on secure design, trust modeling, attack surface reasoning, and resilience thinking |
 
 Additional reflection exercises and advanced models may be added over time.
 
----
+
 
 ## How to Use This Track
 
@@ -41,13 +41,6 @@ Additional reflection exercises and advanced models may be added over time.
 - Practice mapping real-world problems to different models and observing the patterns that emerge.
 - Layer multiple models together to sharpen insights and make better design tradeoffs.
 
----
+
 
 *Frameworks give you structure. Mental models give you vision. Great Security Architects operate with both.*
-
-
-
----
-© 2025 Elemental Security Solutions, LLC
-Part of the Security Architecture Knowledge Base.
-Licensed under the MIT License.

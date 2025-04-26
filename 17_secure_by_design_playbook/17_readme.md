@@ -6,7 +6,7 @@ Security is most effective and least costly when it is integrated from the begin
 
 This track provides a practical playbook for embedding security deeply and consistently into architectural and engineering processes.
 
----
+
 
 ## Purpose of This Track
 
@@ -15,14 +15,14 @@ This track provides a practical playbook for embedding security deeply and consi
 - Provide checkpoints, templates, and guidelines to integrate security into architecture reviews and solution design.
 - Help organizations move beyond reactive security patching toward proactive risk mitigation.
 
----
+
 
 ## What This Track Includes
 
 Each document in this track focuses on an essential aspect of Secure-by-Design thinking:
 
 | Document | Purpose |
-|:---------|:--------|
+|:|:--|
 | **Secure Design Principles** | Core security philosophies to apply across all designs |
 | **Secure Design Checkpoints** | Practical activities and questions to embed into design phases |
 | **Secure Architecture Patterns Overview** | High-level overview of how to apply reusable secure architectures |
@@ -31,7 +31,7 @@ Each document in this track focuses on an essential aspect of Secure-by-Design t
 
 Additional resources and refinements may be added over time.
 
----
+
 
 ## Why Secure-by-Design Matters
 
@@ -43,11 +43,6 @@ Additional resources and refinements may be added over time.
 
 Secure-by-Design is not a checklist. It is a mindset that influences every architectural decision.
 
----
+
 
 *Security is not what you add later. It is what you build from the beginning, layer by layer, assumption by assumption, decision by decision.*
-
----
-© 2025 Elemental Security Solutions, LLC
-Part of the Security Architecture Knowledge Base.
-Licensed under the MIT License.
