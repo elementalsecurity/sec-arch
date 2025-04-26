@@ -1,6 +1,6 @@
 # Case Studies and Examples
 
-This section of the _"So You Want To Be A Security Architect?" repository is designed to ground theory in practice. Each case study offers a narrative-driven, technically detailed walkthrough of a real-world architecture challenge, highlighting how security design decisions are made under constraints, trade-offs, and evolving business needs.
+This section of the _"So You Want To Be A Security Architect?"_ repository is designed to ground theory in practice. Each case study offers a narrative-driven, technically detailed walkthrough of a real-world architecture challenge, highlighting how security design decisions are made under constraints, trade-offs, and evolving business needs.
 
 These examples help aspiring and current Security Architects understand what "good" looks like when applied to complex, high-stakes environments.
 
