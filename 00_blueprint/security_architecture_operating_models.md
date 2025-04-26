@@ -84,5 +84,5 @@ At each stage, the Security Architect:
 
 ---
 
-This model helps organizations avoid the trap of treating Security Architecture as overhead — and instead, establish it as a **critical design discipline** that scales trust and risk reduction across the enterprise.
+This model helps organizations avoid the trap of treating Security Architecture as overhead and instead, establish it as a **critical design discipline** that scales trust and risk reduction across the enterprise.
 
