@@ -1,6 +1,6 @@
 # Contributing to the Security Architecture Repository
 
-Thank you for your interest in contributing! This project thrives on collaboration, shared knowledge, and real-world experience. Whether you're correcting a typo, contributing a full case study, or adding new templates — your effort is appreciated.
+Thank you for your interest in contributing. This project thrives on collaboration, shared knowledge, and practical experience. Whether you are correcting a typo, contributing a full case study, or adding new templates, your contributions are valued and essential to the project's success.
 
 ---
 

@@ -17,7 +17,7 @@ These models are often:
 - Resilient under failure conditions
 - Created by practitioners with field-tested insight
 
-They may incorporate or complement existing standards like NIST, ISO, PCI DSS — but they push beyond checklist thinking.
+They may incorporate or complement existing standards like NIST, ISO, PCI DSS but they push beyond checklist thinking.
 
 ---
 

@@ -86,4 +86,4 @@ Security Architects should:
 
 ## Summary
 
-The **MITRE Cyber Resiliency Engineering Framework** shifts cybersecurity from reactive defense to **mission-centric resilience**. It empowers Security Architects and Systems Engineers to anticipate compromise, engineer recovery, and adapt over time—critical in modern systems where **perimeter defenses alone are no longer sufficient**.
+The **MITRE Cyber Resiliency Engineering Framework** shifts cybersecurity from reactive defense to **mission-centric resilience**. It empowers Security Architects and Systems Engineers to anticipate compromise, engineer recovery, and adapt over time and critical in modern systems where **perimeter defenses alone are no longer sufficient**.

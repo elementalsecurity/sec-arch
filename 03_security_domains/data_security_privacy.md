@@ -1,6 +1,6 @@
 # Data Security and Privacy
 
-Data security and privacy focus on protecting sensitive information throughout its lifecycle — from creation and storage to transmission, processing, and destruction. As data becomes the most valuable asset in digital ecosystems, securing it is not just a technical imperative. It is a legal, ethical, and strategic responsibility.
+Data security and privacy focus on protecting sensitive information throughout its lifecycle, from creation and storage to transmission, processing, and destruction. As data becomes the most valuable asset in digital ecosystems, securing it is not just a technical imperative. It is a legal, ethical, and strategic responsibility.
 
 Strong data security and privacy practices build trust with customers, partners, regulators, and the broader public, while minimizing risk and enabling sustainable business innovation.
 

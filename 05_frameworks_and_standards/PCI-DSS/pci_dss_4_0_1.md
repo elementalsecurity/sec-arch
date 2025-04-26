@@ -17,28 +17,28 @@
 
 The framework is divided into 12 core requirements grouped under 6 logical control objectives:
 
-### ✅ Build and Maintain a Secure Network and Systems
+### Build and Maintain a Secure Network and Systems
 1. **Install and maintain network security controls**
 2. **Apply secure configurations to all system components**
 
-### ✅ Protect Account Data
+### Protect Account Data
 3. **Protect stored account data**
 4. **Protect cardholder data with strong cryptography during transmission over open, public networks**
 
-### ✅ Maintain a Vulnerability Management Program
+### Maintain a Vulnerability Management Program
 5. **Protect all systems and networks from malicious software**
 6. **Develop and maintain secure systems and software**
 
-### ✅ Implement Strong Access Control Measures
+### Implement Strong Access Control Measures
 7. **Restrict access to system components and cardholder data by business need to know**
 8. **Identify users and authenticate access to system components**
 9. **Restrict physical access to cardholder data**
 
-### ✅ Regularly Monitor and Test Networks
+### Regularly Monitor and Test Networks
 10. **Log and monitor all access to system components and cardholder data**
 11. **Test security of systems and networks regularly**
 
-### ✅ Maintain an Information Security Policy
+### Maintain an Information Security Policy
 12. **Support information security with organizational policies and programs**
 
 ---
@@ -117,4 +117,3 @@ Mapping these helps consolidate controls and reduce duplicative effort during au
 ## SUMMARY
 
 PCI DSS 4.0.1 reflects the evolution of payment security into a risk-based, adaptive compliance framework. It challenges Security Architects to combine structured controls with flexible architectures that are both auditable and resilient. Implementing PCI DSS effectively enables organizations to build trust, reduce risk, and protect cardholder data in an increasingly complex threat landscape.
-

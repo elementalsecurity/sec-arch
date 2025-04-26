@@ -2,7 +2,7 @@
 
 The **Zachman Framework** is one of the earliest and most foundational enterprise architecture frameworks. Developed by **John Zachman** in the 1980s, it provides a structured taxonomy for organizing architectural artifacts across multiple perspectives and abstraction levels.
 
-Unlike methodology-based frameworks (e.g., TOGAF or DODAF), Zachman is a **classification schema**, not a process. It helps organizations answer the fundamental questions: *What, How, Where, Who, When, and Why* — across key stakeholder viewpoints.
+Unlike methodology-based frameworks (e.g., TOGAF or DODAF), Zachman is a **classification schema**, not a process. It helps organizations answer the fundamental questions: *What, How, Where, Who, When, and Why* across key stakeholder viewpoints.
 
 ---
 

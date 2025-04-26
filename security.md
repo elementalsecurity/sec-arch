@@ -24,7 +24,7 @@ If the issue affects a broader ecosystem or external dependency (e.g., GitHub Pa
 We ask that you:
 - Allow us a reasonable time to resolve before publicly disclosing
 - Avoid scanning or automated probing that could be disruptive
-- Only test against systems you control — do not target live users
+- Only test against systems you control and do not target live users
 
 We will credit valid reports (unless you prefer to remain anonymous) in our project changelogs and readme if the fix is public.
 

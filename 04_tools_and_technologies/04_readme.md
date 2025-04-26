@@ -44,7 +44,7 @@ Security Architects must often evaluate tools based not only on feature sets, bu
 - Operational scalability and cost
 - API maturity, logging granularity, and interoperability
 
-This section encourages **critical thinking, comparative analysis, and practical recommendations**—not tool evangelism.
+This section encourages **critical thinking, comparative analysis, and practical recommendations** and not tool evangelism.
 
 ---
 

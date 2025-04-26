@@ -95,4 +95,4 @@ Security Architects lead DevSecOps design by:
 
 ## Summary
 
-Secure DevOps architecture requires more than scanning—it requires systematic integration of trust, access control, automation, and observability. By embedding security into every layer of the pipeline, organizations achieve both velocity and resilience, enabling rapid innovation with reduced risk.
+Secure DevOps architecture requires more than scanning. It's an entire process that requires systematic integration of trust, access control, automation, and observability. By embedding security into every layer of the pipeline, organizations achieve both velocity and resilience, enabling rapid innovation with reduced risk.

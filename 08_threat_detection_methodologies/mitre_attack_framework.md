@@ -1,70 +1,76 @@
-# Cyber Kill Chain Framework
+# MITRE ATT&CK Framework
 
-**The Cyber Kill Chain** is a threat model developed by **Lockheed Martin** in 2011 to describe the stages of a cyber attack and identify opportunities to detect, disrupt, or respond at each phase. Inspired by military doctrine, it is structured to help security professionals understand attacker behavior and deploy **defensive strategies** aligned to adversary actions.
-
----
-
-## Attribution
-- **Original Creator**: Lockheed Martin Corporation
-- **First Publication**: Intelligence-Driven Computer Network Defense (2011)
-- **Authors**: Eric M. Hutchins, Michael J. Cloppert, Rohan M. Amin
+The **MITRE ATT&CK Framework** (Adversarial Tactics, Techniques, and Common Knowledge) is a globally recognized, structured knowledge base of adversary behaviors based on real-world observations. It is designed to help organizations understand how attackers operate, strengthen their detection and defense strategies, and support threat intelligence, security operations, and risk assessments.
 
 ---
 
-## The 7 Phases of the Cyber Kill Chain
+## Purpose and Scope
 
-| Phase | Description | Defensive Opportunities |
-|-------|-------------|--------------------------|
-| **1. Reconnaissance** | Adversary identifies targets, collects intel (e.g., IPs, emails, org charts) | Detect scanning, social engineering attempts, threat intel monitoring |
-| **2. Weaponization** | Combines exploit with payload (e.g., malware, macro) into a deliverable | Threat intel on known toolchains, sandbox analysis, supply chain scrutiny |
-| **3. Delivery** | Transmits weaponized payload to target (e.g., phishing, drive-by, USB drop) | Email and web filtering, USB control, endpoint protection |
-| **4. Exploitation** | Executes code on the victim's system (e.g., exploiting a vulnerability) | Patch management, vulnerability scanning, behavioral detection |
-| **5. Installation** | Installs malware or backdoor for persistence | EDR/AV monitoring, host integrity checks, privilege hardening |
-| **6. Command and Control (C2)** | Attacker establishes remote control channel | DNS monitoring, beacon detection, outbound traffic filtering |
-| **7. Actions on Objectives** | Adversary achieves goals (e.g., data theft, sabotage, lateral movement) | DLP, UEBA, lateral movement detection, response playbooks |
+The ATT&CK Framework catalogs the **tactics**, **techniques**, and **procedures** (TTPs) adversaries use across the full lifecycle of an intrusion. It emphasizes:
+
+- Real-world adversary behavior over theoretical attacks
+- Post-compromise activities (what happens after initial access)
+- Continuous updates based on public reporting and security research
+
+ATT&CK is not limited to a single threat model; it supports use cases across enterprise environments, mobile devices, and industrial control systems (ICS).
 
 ---
 
-## Strengths of the Kill Chain Model
+## Structure of ATT&CK
 
-- Provides **linear attack progression** for blue team strategy
-- Emphasizes **prevention and early detection**
-- Maps **security controls** to each phase of attacker behavior
-- Enables structured incident response and threat hunting
+| Component | Description |
+|-----------|-------------|
+| **Tactics** | The adversary's tactical goal or objective (e.g., Initial Access, Persistence, Lateral Movement) |
+| **Techniques** | How adversaries achieve a tactic (e.g., Spearphishing, Credential Dumping, Command and Control) |
+| **Sub-techniques** | More detailed refinements of techniques, specifying variations in attacker behavior |
+| **Mitigations** | Defensive measures to prevent or detect specific techniques |
+| **Detections** | Guidance for identifying techniques through telemetry and analysis |
+
+ATT&CK matrices map these elements visually, providing an organized view of the adversary landscape.
+
+---
+
+## Common Use Cases
+
+- **Threat Intelligence Enrichment**: Aligns incidents to known techniques and groups
+- **Detection Engineering**: Prioritizes development of detections for high-risk techniques
+- **Security Assessment and Gap Analysis**: Identifies where defensive coverage is strong or lacking
+- **Red Team and Purple Team Exercises**: Simulates realistic attack scenarios mapped to techniques
+- **Adversary Emulation Plans**: Creates tailored, threat-specific testing plans
+
+---
+
+## Advantages
+
+- **Real-World Focus**: Techniques are derived from active threat campaigns
+- **Consistent Language**: Standardizes terminology across intelligence reports and defenses
+- **Actionable Insights**: Links tactics and techniques to mitigation and detection strategies
+- **Broad Adoption**: Used by governments, commercial organizations, and security vendors worldwide
 
 ---
 
 ## Limitations
 
-- Assumes **linear attack flow** (may not fit modern multi-stage APTs)
-- Not ideal for modeling **insider threats** or **post-compromise persistence**
-- Lacks granularity compared to frameworks like **MITRE ATT&CK**
+- **Volume of Techniques**: The large number of techniques can overwhelm unprioritized defenders
+- **Detection Complexity**: Some techniques are difficult to detect or attribute accurately
+- **Focus Area**: Primarily post-compromise; initial access vectors sometimes require supplementary frameworks
 
 ---
 
-## Use Cases
+## Relationship to Other Models
 
-- Threat modeling and red team scenario development
-- Security control gap analysis
-- Purple team and attack simulation planning
-- SOC playbook alignment (e.g., response actions by phase)
-
----
-
-## Integration with Other Models
-
-| Framework | Complementary Role |
-|----------|--------------------|
-| **MITRE ATT&CK** | Maps TTPs to specific Kill Chain stages |
-| **D3FEND** | Defensive countermeasures aligned to attack phases |
-| **Diamond Model** | Enriches each phase with adversary capabilities and infrastructure |
-| **NIST CSF** | Kill Chain informs Detect/Respond functions |
+| Framework | Relationship |
+|-----------|-------------|
+| **Cyber Kill Chain** | ATT&CK refines and expands the actions that occur during each Kill Chain phase |
+| **D3FEND** | Provides defensive techniques and countermeasures mapped against ATT&CK tactics |
+| **Diamond Model** | Enriches ATT&CK by correlating infrastructure, capabilities, and adversary personas |
+| **NIST CSF** | ATT&CK tactics and techniques align to "Detect" and "Respond" functions |
 
 ---
 
 ## Summary
 
-The **Cyber Kill Chain** remains a valuable foundation for security operations, detection engineering, and adversary modeling. While modern threats demand more dynamic and layered frameworks, the Kill Chain's **clear structure and operational relevance** make it an enduring tool in any defender's toolkit.
+The **MITRE ATT&CK Framework** is a cornerstone of modern cyber defense. Its emphasis on observable attacker behavior, structured documentation of TTPs, and its broad applicability across operational, intelligence, and governance functions make it essential for security architecture, threat detection, and proactive risk management.
 
-> "Intelligence-driven defense is a necessity—not a luxury." — Hutchins, Cloppert, Amin (Lockheed Martin, 2011)
-
+> "You cannot defend what you do not understand. ATT&CK brings adversary behavior into focus for every defender."  
+> — Adapted from the MITRE Corporation

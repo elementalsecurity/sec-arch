@@ -76,5 +76,5 @@ Security Architects must:
 
 ## Strategic Impact
 
-DORA sets a new benchmark for cyber resilience in finance. It mandates a proactive, risk-informed, and testable approach to ICT security. Architects must enable systemic resilience—not just for compliance, but for operational continuity and trust in an increasingly digitized financial sector.
+DORA sets a new benchmark for cyber resilience in finance. It mandates a proactive, risk-informed, and testable approach to ICT security. Architects must enable systemic resilience and not just for compliance, but for operational continuity and trust in an increasingly digitized financial sector.
 

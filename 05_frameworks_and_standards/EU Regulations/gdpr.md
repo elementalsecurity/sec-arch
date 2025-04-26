@@ -82,5 +82,5 @@ The **General Data Protection Regulation (GDPR)** (Regulation (EU) 2016/679) is 
 
 ## Strategic Importance
 
-GDPR has become the global benchmark for privacy regulation. Its emphasis on transparency, accountability, and user control requires technical leaders to integrate privacy deeply into design and operations. GDPR-compliant architecture is not only legally necessary—but a trust enabler in the modern data economy.
+GDPR has become the global benchmark for privacy regulation. Its emphasis on transparency, accountability, and user control requires technical leaders to integrate privacy deeply into design and operations. GDPR-compliant architecture is not only legally necessary, but a trust enabler in the modern data economy.
 

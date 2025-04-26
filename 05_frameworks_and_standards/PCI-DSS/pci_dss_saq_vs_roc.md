@@ -100,5 +100,5 @@ A **Report on Compliance (ROC)** is a detailed assessment conducted by a **Quali
 
 ## Summary
 
-**SAQs** offer a streamlined path for lower-risk merchants, while **ROCs** provide the rigorous assurance required for high-volume merchants and critical service providers. Understanding your organization's profile, transaction flow, and CDE scope is key to choosing the right approach—and ensuring lasting PCI DSS compliance.
+**SAQs** offer a streamlined path for lower-risk merchants, while **ROCs** provide the rigorous assurance required for high-volume merchants and critical service providers. Understanding your organization's profile, transaction flow, and CDE scope is key to choosing the right approach by ensuring lasting PCI DSS compliance.
 

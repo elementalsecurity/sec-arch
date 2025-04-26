@@ -1,6 +1,6 @@
 # Zero Trust Architecture (ZTA)
 
-Zero Trust Architecture (ZTA) is a security model that assumes no implicit trust—inside or outside the network perimeter. Instead, it advocates for continuous verification of identities, devices, and access context, and restricts access to only what is necessary.
+Zero Trust Architecture (ZTA) is a security model that assumes no implicit trust (like me) inside or outside the network perimeter. Instead, it advocates for continuous verification of identities, devices, and access context, and restricts access to only what is necessary.
 
 "Never trust, always verify."
 
@@ -70,5 +70,5 @@ Security Architects are responsible for designing the trust boundaries and integ
 - Mapping of business needs to trust decisions
 - Roadmaps for adopting Zero Trust in legacy and hybrid environments
 
-ZTA is not a product but a strategic shift in security architecture—one that modern Security Architects must champion.
+ZTA is not a product but a strategic shift in security architecture that modern Security Architects must champion.
 

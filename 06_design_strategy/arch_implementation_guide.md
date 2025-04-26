@@ -1,6 +1,6 @@
 # ARCH Tactical Implementation Guide
 
-This guide provides a practical, step-by-step breakdown for applying the **ARCH Model** — Asymmetric Resilient Cybersecurity Hardening — to real-world security program design and operationalization.
+This guide provides a practical, step-by-step breakdown for applying the **ARCH Model** Asymmetric Resilient Cybersecurity Hardening to real-world security program design and operationalization.
 
 While the ARCH Overview describes the philosophy and principles, this guide is meant to **operationalize those principles across teams, systems, and timeframes**. It is for Security Architects, CISOs, DevOps engineers, and security leaders who want to apply ARCH strategically, tactically, and measurably.
 

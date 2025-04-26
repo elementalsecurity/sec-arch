@@ -1,6 +1,6 @@
 # Threat Modeling Methodologies Comparison: STRIDE vs. PASTA vs. LINDDUN
 
-Threat modeling is a critical activity in secure architecture and secure development lifecycles (SDLC). It helps identify, evaluate, and prioritize potential threats to systems, applications, and data before exploitation occurs. The three most prominent methodologies—**STRIDE**, **PASTA**, and **LINDDUN**—offer structured approaches based on different threat perspectives.
+Threat modeling is a critical activity in secure architecture and secure development lifecycles (SDLC). It helps identify, evaluate, and prioritize potential threats to systems, applications, and data before exploitation occurs. The three most prominent methodologies like **STRIDE**, **PASTA**, and **LINDDUN** offer structured approaches based on different threat perspectives.
 
 ---
 

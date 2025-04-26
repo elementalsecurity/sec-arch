@@ -103,5 +103,5 @@ HIPAA intersects with:
 
 ## STRATEGIC IMPORTANCE
 
-HIPAA is more than a compliance checkbox—it is a trust framework between healthcare entities and patients. It reinforces data governance, accountability, and patient rights. Security Architects must ensure that technical designs uphold these principles while enabling secure innovation in digital health.
+HIPAA is more than a compliance checkbox, it is a trust framework between healthcare entities and patients. It reinforces data governance, accountability, and patient rights. Security Architects must ensure that technical designs uphold these principles while enabling secure innovation in digital health.
 

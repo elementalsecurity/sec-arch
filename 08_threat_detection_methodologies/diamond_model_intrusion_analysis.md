@@ -22,7 +22,7 @@ The **Diamond Model of Intrusion Analysis** is a threat intelligence and intrusi
 
 ## Core Components of the Diamond
 
-At the center of the model is a **cyber event**—an adversary leveraging a capability over infrastructure to affect a victim.
+At the center of the model is a **cyber event** with an adversary leveraging a capability over infrastructure to affect a victim.
 
 | Vertex | Description |
 |--------|-------------|

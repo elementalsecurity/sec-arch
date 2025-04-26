@@ -66,5 +66,5 @@
 
 The **Cyber Kill Chain** remains a valuable foundation for security operations, detection engineering, and adversary modeling. While modern threats demand more dynamic and layered frameworks, the Kill Chain's **clear structure and operational relevance** make it an enduring tool in any defender's toolkit.
 
-> "Intelligence-driven defense is a necessity—not a luxury." — Hutchins, Cloppert, Amin (Lockheed Martin, 2011)
+> "Intelligence-driven defense is a necessity and not a luxury." — Hutchins, Cloppert, Amin (Lockheed Martin, 2011)
 

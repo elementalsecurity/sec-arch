@@ -26,7 +26,7 @@ The ARCH Model is built around **four core pillars**:
 - Prefer distributed, stateless, or immutable infrastructure.
 
 ### 3. **Cybersecurity-Driven Architecture**
-> Make security a first-class design input — not an overlay.
+> Make security a first-class design input and NOT an overlay.
 
 - Engage security architects early in the system lifecycle.
 - Define architectural security gates, risk thresholds, and exception logic.

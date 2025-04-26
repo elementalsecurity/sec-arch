@@ -85,5 +85,5 @@ SABSA uses a taxonomy of **business attributes** (e.g., accountability, integrit
 
 ## Summary
 
-SABSA provides a **rigorous, structured methodology** for developing security architectures that are truly aligned to business risk and strategy. For Security Architects, SABSA bridges the gap between security operations, enterprise architecture, and governance—ensuring traceability, consistency, and defensibility across the entire lifecycle of the security program.
+SABSA provides a **rigorous, structured methodology** for developing security architectures that are truly aligned to business risk and strategy. For Security Architects, SABSA bridges the gap between security operations, enterprise architecture, and governance by ensuring traceability, consistency, and defensibility across the entire lifecycle of the security program.
 
