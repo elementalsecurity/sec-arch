@@ -28,7 +28,7 @@ This section is organized into six focused guides:
 
 ## How to Use This Section
 - Read sequentially for a full career-planning experience, or jump to the section most relevant to your current phase.
-- Treat this as a **living guide**—as the industry evolves, so should your understanding of what it takes to thrive.
+- Treat this as a **living guide** and as the industry evolves, so should your understanding of what it takes to thrive.
 - Use the roadmap and project ideas to build a public or private **portfolio** that demonstrates capability, not just credentials.
 
 ---
