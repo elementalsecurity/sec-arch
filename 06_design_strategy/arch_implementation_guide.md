@@ -1,106 +1,117 @@
 # ARCH Tactical Implementation Guide
 
-This guide provides a practical, step-by-step breakdown for applying the **ARCH Model** Asymmetric Resilient Cybersecurity Hardening to real-world security program design and operationalization.
+## Purpose
 
-While the ARCH Overview describes the philosophy and principles, this guide is meant to **operationalize those principles across teams, systems, and timeframes**. It is for Security Architects, CISOs, DevOps engineers, and security leaders who want to apply ARCH strategically, tactically, and measurably.
+This guide provides a tactical framework for applying the **ARCH Model** — **Asymmetric Resilient Cybersecurity Hardening** — to real-world security program design and operationalization.
+
+While the ARCH Overview defines the philosophy and principles, this guide focuses on **translating those principles into measurable deployment actions** across teams, systems, and timeframes. It is intended for Security Architects, CISOs, DevOps engineers, and security leaders committed to building asymmetric, resilient, and sustainable defense programs.
 
 ---
 
 ## Strategic Deployment Sequence
 
-ARCH is best implemented in **four progressive phases**, each mapped to one of the pillars.
+ARCH is best implemented through **four progressive phases**, each aligned with one of the ARCH pillars.
 
 ### Phase 1: Architect Asymmetry
-- **Goal**: Impose disproportionate cost on attackers
-- **Tactics**:
-  - Identify high-value assets and simulate adversary paths (ATT&CK + threat modeling)
-  - Deploy canaries, deception proxies, and honeypots in lateral movement zones
-  - Rotate keys and credentials at unpredictable intervals
-  - Remove predictable admin workflows and standard ports (e.g., disable RDP/SSH by default)
+
+**Goal:** Impose disproportionate cost on attackers.
+
+**Tactical Actions:**
+- Identify high-value assets and model adversary paths (e.g., ATT&CK mapping, threat modeling).
+- Deploy deception techniques such as canaries, sinkholes, and honeypots at lateral movement points.
+- Rotate keys and credentials at unpredictable intervals to reduce predictability.
+- Remove standard administrative workflows and default ports (e.g., disable RDP/SSH).
 
 ### Phase 2: Engineer Resilience
-- **Goal**: Build for failure, not just prevention
-- **Tactics**:
-  - Define blast radii for every critical service and enforce segmentation boundaries
-  - Adopt immutable infrastructure and ephemeral workloads (e.g., Lambda, k8s pods)
-  - Use queue-based messaging over tightly coupled RPCs
-  - Automate detection-to-response playbooks with SOAR tools
+
+**Goal:** Build for survivability rather than solely prevention.
+
+**Tactical Actions:**
+- Define blast radii for critical services and enforce network and identity segmentation.
+- Deploy immutable infrastructure and ephemeral workloads (e.g., serverless, containerized systems).
+- Favor queue-based messaging over tightly coupled RPCs.
+- Automate detection and response workflows with SOAR integrations.
 
 ### Phase 3: Elevate Cybersecurity Architecture
-- **Goal**: Shift security left and up
-- **Tactics**:
-  - Embed security architects into cloud and platform teams
-  - Create reference architectures for IAM, logging, Zero Trust, and incident response
-  - Add threat modeling to the architecture review board process
-  - Define service-level objectives (SLOs) for detection latency and control coverage
+
+**Goal:** Integrate security directly into design and delivery processes.
+
+**Tactical Actions:**
+- Embed security architects within platform, application, and cloud engineering teams.
+- Maintain reference architectures for IAM, monitoring, Zero Trust models, and incident response playbooks.
+- Make threat modeling a mandatory component of architecture review boards.
+- Define service-level objectives (SLOs) for detection latency, threat coverage, and operational resilience.
 
 ### Phase 4: Harden Through Simplicity
-- **Goal**: Reduce complexity and attack surface
-- **Tactics**:
-  - Eliminate dormant identities, orphaned endpoints, and non-expiring access
-  - Replace complex RBAC trees with role templates and inheritance models
-  - Remove unused SaaS integrations and deprecated protocols
-  - Prefer managed platforms with known secure defaults
+
+**Goal:** Reduce complexity to minimize exploitability.
+
+**Tactical Actions:**
+- Eliminate dormant identities, orphaned endpoints, and non-expiring access privileges.
+- Consolidate and simplify RBAC structures into role templates and inheritance models.
+- Remove deprecated protocols and unused SaaS integrations.
+- Prioritize managed services with secure-by-default configurations over complex custom builds.
 
 ---
 
 ## Control Examples Mapped to ARCH
 
-| Control | ARCH Pillar | Tactical Detail |
-|--------|--------------|-----------------|
-| Canary tokens in critical file shares | Asymmetry | Alert on attacker interaction with decoy data |
-| Immutable EC2 + image pipelines | Resilience | Block post-exploit persistence by eliminating mutable state |
-| CI/CD security gates | Architecture | Prevent drift and enforce secrets scanning before deploy |
-| Access package automation | Simplicity | Auto-expire third-party access to reduce identity sprawl |
+| Control Example | ARCH Pillar | Tactical Detail |
+|:----------------|:------------|:----------------|
+| Canary tokens in critical file shares | Asymmetry | Trigger early detection by luring attackers into decoy environments. |
+| Immutable EC2 instances with golden image pipelines | Resilience | Block post-exploit persistence by eliminating mutable infrastructure. |
+| CI/CD security gates for secrets and vulnerability scans | Cybersecurity Architecture | Enforce control validation before deployment events. |
+| Access package automation for third parties | Simplicity | Auto-expire external access to minimize identity sprawl. |
 
 ---
 
-## Team Integration
+## Team Roles and Responsibilities
 
-To implement ARCH:
+### Security Architects
+- Define resilient security postures by design, not by policy alone.
+- Create and maintain architecture patterns and deployment guides aligned to ARCH.
+- Map business goals to threat-informed architectural priorities.
 
-### Security Architects:
-- Define posture by design (not by policy)
-- Maintain reference patterns and alignment guides
-- Map business goals to asymmetric threat priorities
+### Engineering and DevOps Teams
+- Integrate security controls, gates, and scanning tools directly into pipelines.
+- Build infrastructure with zero standing access and enforced isolation.
+- Automate key and certificate rotation to minimize exposure.
 
-### Engineering/DevOps:
-- Integrate scanning and control gates into pipelines
-- Build with zero standing access and infrastructure isolation
-- Rotate keys, secrets, and certs automatically
-
-### Governance/Risk:
-- Use ARCH to justify prioritization of compensating controls
-- Define acceptable residual risk per application class
-- Use threat-informed risk scoring, not just control inventories
+### Governance, Risk, and Compliance (GRC)
+- Leverage ARCH to justify compensating controls and risk acceptance.
+- Define acceptable residual risk thresholds based on application tiering.
+- Move from control inventory management to threat-informed risk models.
 
 ---
 
 ## Metrics and Outcomes
 
-| Metric | Measurement Target | Maturity Signal |
-|--------|---------------------|-----------------|
-| Mean time to detect/contain (MTTD/MTTC) | <10 minutes | Responsive and prepared ops |
-| % of ephemeral workloads | >80% | Reduction in persistence surface |
-| % of access with expiration | 100% | Zero standing privilege enforced |
-| Number of attacker paths blocked at tier-1 | Increase quarter-over-quarter | Threat modeling-to-control loop is active |
+| Metric | Target Measurement | Indicator of Maturity |
+|:-------|:--------------------|:----------------------|
+| Mean Time to Detect/Contain (MTTD/MTTC) | Less than 10 minutes | Demonstrates operational readiness. |
+| Percentage of ephemeral workloads | Greater than 80% | Reduces attack surface and persistence risks. |
+| Percentage of privileged access with expiration | 100% | Enforces zero standing privilege. |
+| Number of attacker paths blocked at Tier 1 | Increase quarter-over-quarter | Validates threat modeling effectiveness. |
 
 ---
 
 ## Common Pitfalls to Avoid
-- Treating ARCH as a compliance overlay rather than a design principle
-- Applying asymmetry only at the network layer (it must go into identity, data, workload)
-- Using ARCH vocabulary without operational alignment (e.g., claiming resilience without testing failover)
-- Overengineering controls that violate the simplicity mandate
+
+- Treating ARCH as a compliance exercise rather than a design model.
+- Applying asymmetry only at the network perimeter instead of across identity, data, and application layers.
+- Using ARCH terminology without operationalizing the supporting practices.
+- Overengineering complexity in ways that violate the simplicity pillar.
 
 ---
 
 ## Summary
-The ARCH Tactical Implementation Guide transforms a security philosophy into a field-deployable playbook. It helps teams ask better questions:
-- "Where does the adversary gain advantage and how do we break it?"
-- "What is the minimum we must protect to stay operational?"
-- "How do we make security easier to do right and harder to ignore?"
 
-By walking through phased deployment, mapped controls, team responsibilities, and measurable outcomes, this guide empowers Security Architects and leaders to build programs that are asymmetric by design, resilient under attack, and hardened by simplification.
+The ARCH Tactical Implementation Guide translates security philosophy into field-deployable playbooks. It enables teams to ask sharper questions:
 
-> "You don’t need more security. You need smarter security. ARCH helps you build it."
+- Where does the adversary gain advantage, and how can we disrupt it?
+- What are the minimum critical assets we must protect to sustain operations?
+- How do we design systems where security is easier to do correctly and harder to ignore?
+
+By following a phased deployment, mapping tactical controls, clarifying team roles, and defining measurable outcomes, security architects and leaders can operationalize security programs that are adversary-aware, resilient by design, and simplified for sustainability.
+
+> "Smarter security is not about having more controls. It is about designing friction into attacker paths and resilience into critical systems. ARCH provides the blueprint."

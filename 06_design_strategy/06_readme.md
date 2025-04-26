@@ -1,57 +1,46 @@
-# Design Strategy
+# 06 - Design Strategy
 
-This section introduces **design strategy** that guide how modern Security Architects think, lead, and design. Unlike compliance-driven frameworks or control catalogs, strategic models offer **mental models**, **design philosophies**, and **adaptive principles** to build security programs that are resilient, scalable, and adversary-aware.
+## Purpose
 
-Where compliance frameworks tell you **what to do**, strategic models challenge you to ask **why and how** is based on your threat landscape, mission objectives, and operational realities.
+The Design Strategy section introduces security professionals to the strategic principles required for effective security architecture. It goes beyond frameworks and compliance to focus on resilient, adversary-aware design.  
 
----
+This section builds the foundation for applying the **ARCH Model** — **Asymmetric Resilient Cybersecurity Hardening** — as the central design lens. Through ARCH, architects learn to shape environments that are not just compliant but inherently disruptive to attackers, sustainable under stress, and aligned to business purpose.
 
-## What Are Strategic Models?
-Strategic models are:
-- **Architecture philosophies** that shape security design decisions across layers
-- **Meta-frameworks** that help you prioritize, adapt, and guide security programs
-- **Bridge tools** between executive strategy, real-world threats, and technical implementation
+Security design is not merely a technical exercise. It is a strategic discipline that must internalize threat dynamics, operational realities, and organizational goals, blending rigorous modeling with practical adaptability.
 
-These models are often:
-- Outcome-driven rather than control-driven
-- Resilient under failure conditions
-- Created by practitioners with field-tested insight
+## Key Themes
 
-They may incorporate or complement existing standards like NIST, ISO, PCI DSS but they push beyond checklist thinking.
+- **Security by Design:** Embedding security into architectures from the earliest conceptual stages rather than layering controls after-the-fact.
+- **Architectural Modeling:** Using threat models, security patterns, trust boundaries, and resilience patterns to make risks visible and actionable.
+- **Strategic Tradeoff Analysis:** Recognizing and managing inevitable tensions among security, usability, performance, and cost.
+- **Alignment to Business Objectives:** Designing architectures that enable critical business functions while improving operational resilience.
+- **Adversary-Focused Resilience:** Prioritizing asymmetry, recovery, and simplicity over rigid control inventories.
 
----
+## What This Section Covers
 
-## What You'll Learn in This Section
-- How to apply adaptive, asymmetric thinking to architecture and operations
-- How to align security with organizational culture and threat context
-- How to use original models (like ARCH) as lenses for control selection, tooling, and measurement
+This section empowers architects and security leaders to design with purpose by providing:
 
-This section empowers architects to lead security transformation — not just implementation.
+- The mental models needed for **asymmetric security architecture.**
+- Structured approaches for integrating **ARCH Pillars** — Asymmetry, Resilience, Cybersecurity-Driven Architecture, and Hardening Through Simplicity — into every design effort.
+- Techniques for threat-informed design in Agile, DevOps, hybrid cloud, and legacy environments.
+- Methods for identifying critical assets, mapping attack paths, and embedding disruption points into architectural patterns.
+- Frameworks for communicating design risks, tradeoffs, and priorities to both technical and business stakeholders.
 
----
+## How to Use This Section
 
-## Contents
+Whether you are designing new platforms, assessing inherited environments, or leading architectural transformations, this section provides:
 
-| File | Description |
-|------|-------------|
-| `arch_overview.md` | A high-level explanation of the ARCH cybersecurity model, its components, and how it redefines modern defense priorities |
-| `arch_implementation.md` | Tactical implementation guide for ARCH, including real-world patterns, operational tips, and measurable outcomes |
+- **Conceptual frameworks** to think and reason about security design under uncertainty.
+- **Tactical guides** for embedding ARCH principles into system architectures.
+- **Practical examples** to translate design theory into operational resilience.
 
-More models may be added to this section as the industry evolves or new architectural patterns emerge.
+This is not a checklist or a one-size-fits-all method.  
+It is a strategic way of thinking — one that will enable you to architect systems that are harder to compromise, faster to recover, and intentionally aligned to business and adversary realities.
 
 ---
 
-## Who This Is For
-- Practicing Security Architects looking to lead design philosophies
-- CISOs and Directors who want to reframe their security strategy around resilience and outcomes
-- Security leaders moving beyond reactive compliance
+## Next Steps
 
----
+Begin by reviewing the **ARCH Overview** to internalize the strategic pillars.  
+Then continue into the detailed guidance on applying asymmetric, resilient, and simplicity-driven design principles across a variety of architectural domains.
 
-## Why Strategic Models Matter
-Frameworks help measure maturity, but **models help you create momentum**. Strategic models help:
-- Make sense of conflicting priorities
-- Align technical controls to organizational risk
-- Build architectures that are **hard to break, easy to maintain, and fast to recover**
-
-> "Security architecture isn’t just a map... It’s a compass. Strategic models tell you where to go when the terrain changes."
