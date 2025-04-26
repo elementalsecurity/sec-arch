@@ -86,3 +86,9 @@ At each stage, the Security Architect:
 
 This model helps organizations avoid the trap of treating Security Architecture as overhead and instead, establish it as a **critical design discipline** that scales trust and risk reduction across the enterprise.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

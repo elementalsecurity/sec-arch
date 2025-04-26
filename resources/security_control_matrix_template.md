@@ -52,3 +52,9 @@ You may wish to align each control with multiple frameworks:
 
 > "Your control matrix should not be static. It should evolve with your architecture, your adversaries, and your business."
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

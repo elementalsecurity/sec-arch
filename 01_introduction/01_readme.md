@@ -32,3 +32,9 @@ Read this section to:
 - Reflect on whether your current skills and goals align with this profession
 
 > "Security Architecture isn't just about defense, it's about design, communication, and strategic alignment."
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

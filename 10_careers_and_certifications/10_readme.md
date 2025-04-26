@@ -38,3 +38,9 @@ This section favors **clarity over hype**. It is built on the belief that:
 - Security Architecture is earned through layered experience, not a single certification
 - There are many valid paths into the profession and your background can be your advantage
 - Competency, communication, and context-awareness matter more than titles
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

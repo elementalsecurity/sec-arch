@@ -94,3 +94,8 @@ Use this checklist to ensure consistent coverage of key domains. Adapt the depth
 ---
 
 *This checklist is a guide, not a script. Adapt it thoughtfully based on the system being reviewed, the risk appetite of the organization, and the broader business context.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

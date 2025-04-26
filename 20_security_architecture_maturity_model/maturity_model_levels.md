@@ -84,3 +84,9 @@ This document defines the maturity levels used in the Security Architecture Matu
 
 *Security architecture maturity is not a static achievement. It is a journey of increasing clarity, consistency, and contribution to organizational mission and resilience.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

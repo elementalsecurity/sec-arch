@@ -70,3 +70,9 @@ This document provides a comprehensive guide to the secure design principles eve
 
 *Secure design principles are not about making systems more complicated. They are about making systems stronger, simpler, and safer from the very first line drawn on the architecture whiteboard.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

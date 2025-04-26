@@ -82,3 +82,9 @@ The **CISSP-ISSAP** is one of the most respected credentials for Security Archit
 
 **Recommended for:** Senior security engineers, architects, and CISSPs seeking specialization in architecture and design.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

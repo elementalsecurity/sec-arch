@@ -14,3 +14,9 @@ The journey is not linear for everyone, but understanding the typical progressio
 - [Becoming a Security Architect: The Blueprint](becoming_a_security_architect.md)
 
 Explore the [Blueprint guide](becoming_a_security_architect.md) for a detailed explanation of each stage, along with mindset shifts and skill-building strategies to support your growth.
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

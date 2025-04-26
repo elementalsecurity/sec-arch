@@ -109,3 +109,9 @@ Often, hybrid approaches combining elements of multiple methods work best.
 
 *Threat modeling is not about rigidly applying one framework. It is about systematically thinking like an attacker and using structured tools to make risk visible, understandable, and actionable.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

@@ -95,3 +95,8 @@ Used to restrict lateral movement and enforce identity-aware access control.
 ## Summary
 
 Network security tools enable deep control and visibility across physical and virtual infrastructures. Security Architects must design layered defenses that combine traditional firewalls with modern IDS, NDR, and segmentation tools to protect against advanced threats. The ability to **enforce policy, observe behavior, and respond to anomalies in real time** is foundational to modern, zero trust-aligned network architectures.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

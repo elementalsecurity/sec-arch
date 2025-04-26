@@ -44,3 +44,9 @@ This Code of Conduct is adapted from the [Contributor Covenant, version 2.1](htt
 
 > Our goal is to build a space where security professionals of all levels feel respected, heard, and empowered to create better systems together. Thank you for helping us make that possible.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

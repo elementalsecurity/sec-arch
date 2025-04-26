@@ -51,3 +51,9 @@ The Identity Federation Pattern establishes trust between identity providers (Id
 
 *Identity Federation, when designed carefully, enables organizations to collaborate securely without surrendering control over their user populations. Trust must be deliberate, bounded, and continuously monitored.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

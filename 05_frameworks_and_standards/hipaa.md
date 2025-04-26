@@ -105,3 +105,9 @@ HIPAA intersects with:
 
 HIPAA is more than a compliance checkbox, it is a trust framework between healthcare entities and patients. It reinforces data governance, accountability, and patient rights. Security Architects must ensure that technical designs uphold these principles while enabling secure innovation in digital health.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

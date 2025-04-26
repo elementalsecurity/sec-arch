@@ -100,3 +100,9 @@ ARCH encourages architects and security leaders to:
 - Make attacks costly and defenses sustainable.
 
 By adopting the ARCH mindset, organizations move closer to security programs that are dynamic, risk-aligned, and future-ready.
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

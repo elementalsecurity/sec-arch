@@ -107,3 +107,9 @@ Designing cloud environments with workload isolation, automated incident respons
 
 *Security Architecture is not about eliminating all threats. It is about shaping the system so that threats are harder to exploit, easier to detect, and less damaging when they do.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

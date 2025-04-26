@@ -67,3 +67,9 @@ Security Architects use CIS Controls to:
 
 CIS Controls are often used in tandem with NIST CSF or ISO 27001 to translate high-level risk objectives into actionable, technically enforceable controls.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

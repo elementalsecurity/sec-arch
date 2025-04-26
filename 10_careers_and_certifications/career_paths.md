@@ -83,3 +83,9 @@ There are multiple viable paths to Security Architecture, and no single credenti
 Interested in learning about the specific roles available once you become a Security Architect?  
 See [Security Architecture Roles and Career Pathways](security_architecture_roles.md).
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

@@ -53,3 +53,9 @@ The Zero Trust Access Pattern enforces the principle "never trust, always verify
 
 *Zero Trust is not a product or a switch to flip. It is an operating model that treats security as an adaptive, continuous process anchored in identity, context, and verification.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

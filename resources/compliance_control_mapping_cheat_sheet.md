@@ -46,3 +46,9 @@ Security programs often operate under multiple regulatory and assurance framewor
 
 > "Controls are different expressions of the same core goal: reduce risk and preserve trust. Translate wisely."
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

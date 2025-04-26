@@ -78,3 +78,9 @@ Security Architects must:
 
 DORA sets a new benchmark for cyber resilience in finance. It mandates a proactive, risk-informed, and testable approach to ICT security. Architects must enable systemic resilience and not just for compliance, but for operational continuity and trust in an increasingly digitized financial sector.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

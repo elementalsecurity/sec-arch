@@ -92,3 +92,8 @@ Choosing the right role and career path is not just about specialization. It is 
 ---
 
 **Next Step:** If you are early in your journey, continue to the [Career Paths to Becoming a Security Architect](career_paths.md) guide for a detailed roadmap to building your experience.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

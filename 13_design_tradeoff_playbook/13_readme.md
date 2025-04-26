@@ -43,3 +43,9 @@ Architects who understand tradeoffs drive better business outcomes and build sys
 
 *Good security architecture is not about winning every battle. It is about winning the ones that matter most, with clarity about the risks and consequences of the ones you choose not to fight.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

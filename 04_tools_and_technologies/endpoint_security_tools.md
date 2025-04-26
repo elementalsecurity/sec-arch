@@ -80,3 +80,8 @@ Manage configuration, patching, and compliance of mobile and desktop endpoints.
 ## Summary
 
 Endpoint security tools are essential to defending users and workloads against modern threats. Security Architects must evaluate EDR, NGAV, MDM, and DFIR tools not only for detection and response capabilities, but also for their integration with broader security architecture. The right combination of prevention, visibility, and control enables scalable and effective endpoint protection strategies.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

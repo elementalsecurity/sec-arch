@@ -69,3 +69,8 @@ Security architecture is not validated by intent. It is validated by outcomes.
 By systematically measuring attacker cost, operational resilience, simplicity, and business alignment, security architects ensure that their designs are not only theoretically strong but also practically resilient.
 
 Validation is the bridge between design ambition and real-world defense capability.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

@@ -94,3 +94,9 @@ The goal was to implement Zero Trust Architecture (ZTA) to secure access and dat
 
 ## Summary
 This case study demonstrates that Zero Trust is not a single product or overnight shift, but a phased transformation anchored in identity, visibility, and risk reduction. For large, distributed retail environments, applying Zero Trust principles with layered implementation across people, apps, and networks enables secure growth, operational agility, and measurable resilience.
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

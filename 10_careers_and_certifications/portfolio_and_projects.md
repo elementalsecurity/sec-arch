@@ -96,3 +96,8 @@ If you cannot showcase work from your employer:
 A Security Architect portfolio should showcase both technical depth and architectural thinking. By combining code, design, written analysis, and strategic documentation, you present yourself not just as a practitioner, but as a designer of secure systems. A strong portfolio proves what you’ve learned and how you apply it.
 
 > "Design leaves a trace. Your portfolio is the evidence of how you think, build, and protect."
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

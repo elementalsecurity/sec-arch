@@ -43,3 +43,9 @@ Use this template to document key architectural decisions clearly and consistent
 
 *An ADR captures not just the final choice, but the thought process, tradeoffs, and assumptions behind it. Good ADRs accelerate learning, enable better decision making, and preserve architectural wisdom for the future.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

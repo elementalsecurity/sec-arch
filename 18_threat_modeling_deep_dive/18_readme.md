@@ -45,3 +45,8 @@ Threat modeling is not just for compliance or security teams. It is a thinking d
 ---
 
 *Threat modeling is not about predicting everything. It is about systematically asking, "What could go wrong?" — and then designing as if you expect it to.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

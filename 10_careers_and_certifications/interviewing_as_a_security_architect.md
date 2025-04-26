@@ -81,3 +81,8 @@ These questions signal maturity and alignment with architectural leadership.
 Interviewing for a Security Architect role is not about memorizing acronyms, it’s about demonstrating that you can translate complex security concepts into actionable, scalable designs. You must show that you can operate at the intersection of risk, technology, and strategy.
 
 > "Security Architects aren't just problem-solvers. They're design leaders who bring order to complexity."
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

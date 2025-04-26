@@ -92,3 +92,9 @@ An organization wants to start a project to build a customer loyalty app that wi
 
 *Completing these challenges builds the foundation for thinking systematically, reasoning about risk, and structuring secure designs. These are essential habits for any serious Security Architect.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

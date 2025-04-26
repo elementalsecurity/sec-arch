@@ -64,3 +64,9 @@ Security Architects do not eliminate tradeoffs. They make them visible, reasoned
 
 *Tradeoff decisions made blindly create hidden risk. Tradeoff decisions made thoughtfully create informed trust.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

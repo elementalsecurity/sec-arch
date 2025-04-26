@@ -55,3 +55,9 @@ Begin with **Architectural Thinking for Security** to internalize the strategic 
 Then proceed step-by-step, building your capabilities across threat modeling, tradeoff navigation, control placement, validation, and executive communication.
 
 By the end of this section, you will not only understand how to design security architectures — you will understand how to shape systems that endure.
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

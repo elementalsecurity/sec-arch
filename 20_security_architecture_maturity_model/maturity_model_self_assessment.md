@@ -90,3 +90,9 @@ Use this assessment periodically to measure progress and guide strategic plannin
 
 *Self-assessment is not about judgment. It is about clarity and using that clarity to grow stronger, more resilient, and more aligned with the mission you serve.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

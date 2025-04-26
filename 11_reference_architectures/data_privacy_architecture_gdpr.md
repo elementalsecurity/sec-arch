@@ -102,3 +102,9 @@ Privacy-aware architectures solve these problems by designing for data protectio
 
 *Privacy by Design is not just about meeting legal requirements. It is about building systems that earn and retain the trust of the people they serve.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

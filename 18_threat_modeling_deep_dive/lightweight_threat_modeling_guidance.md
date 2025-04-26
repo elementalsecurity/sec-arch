@@ -80,3 +80,9 @@ Ask basic but powerful questions:
 
 *Threat modeling at scale is not about finding every possible threat. It is about systematically improving your system’s survivability, one thoughtful design decision at a time.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

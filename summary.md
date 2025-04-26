@@ -42,3 +42,9 @@
 - [19 Architecture Decision Records (ADR) Track](19_architecture_decision_records/README.md)
 - [20 Security Architecture Maturity Model](20_security_architecture_maturity_model/README.md)
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

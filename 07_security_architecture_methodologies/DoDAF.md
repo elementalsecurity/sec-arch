@@ -105,3 +105,8 @@ Security and Systems Architects use DODAF to:
 ## Summary
 
 DODAF offers a **multi-layered, formally structured methodology** for modeling and governing defense architectures. By leveraging its viewpoints and supporting tools, Security Architects can ensure that systems are resilient, compliant, and aligned with mission-critical objectives, making DODAF a foundational element in defense and high-assurance system design.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

@@ -73,3 +73,9 @@ Use this quick reference during threat modeling or design reviews to brainstorm 
 
 *Threat checklists guide thinking, but threat modeling is ultimately about understanding the system, its environment, its adversaries, and its mission.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

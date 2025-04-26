@@ -55,3 +55,9 @@ This document provides practical best practices for writing, managing, and gover
 
 *Good ADRs are not documentation bureaucracy. They are investments in organizational clarity, resilience, and technical wisdom.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

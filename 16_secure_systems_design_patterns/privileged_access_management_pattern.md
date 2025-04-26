@@ -54,3 +54,9 @@ The Privileged Access Management Pattern establishes centralized control, auditi
 
 *Privileged access is not just an IT operational matter. It is a primary control point for organizational survival during attacks. Securing it is essential, continuous, and non-negotiable.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

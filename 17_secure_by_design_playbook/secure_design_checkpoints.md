@@ -94,3 +94,9 @@ This document defines key checkpoints to integrate Secure-by-Design thinking acr
 
 *Secure Design Checkpoints institutionalize a culture of deliberate, proactive security thinking. They ensure that every design choice is evaluated not only for functionality and performance, but for defensibility and resilience.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

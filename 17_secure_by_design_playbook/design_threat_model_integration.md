@@ -66,3 +66,8 @@ For most projects, a lightweight approach is sufficient to drive Secure-by-Desig
 ---
 
 *Threat modeling is not about predicting every possible attack. It is about thinking like an attacker, identifying weaknesses before they are exploited, and shaping systems that are harder to break.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

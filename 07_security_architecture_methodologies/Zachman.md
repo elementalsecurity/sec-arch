@@ -89,3 +89,8 @@ The Zachman Framework is a **6x6 matrix**:
 ## Summary
 
 The **Zachman Framework** is a powerful classification tool for organizing complex enterprise systems. While not a methodology, it provides a foundational schema to ensure that every architectural perspective and question is addressed. Security Architects can use Zachman to map risks, controls, and governance across layers, making it a versatile addition to a mature architecture program.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

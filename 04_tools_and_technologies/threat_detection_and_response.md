@@ -93,3 +93,9 @@ Security Architects and Detection Engineers work together to:
 
 Threat detection and response tooling forms the analytical and operational backbone of security operations. Security Architects play a key role in designing scalable pipelines that integrate SIEM, SOAR, and TIPs while enabling detection engineering and automated workflows. These tools empower teams to move from alert overload to intelligent action and measurable outcomes.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

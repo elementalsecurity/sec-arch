@@ -43,3 +43,9 @@ ADRs are not heavyweight governance artifacts. They are practical, living record
 
 *Architecture decisions are not just technical choices. They are trust choices, risk choices, and resilience choices. Capturing them well strengthens everything that follows.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

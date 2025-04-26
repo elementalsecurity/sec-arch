@@ -78,3 +78,8 @@ The **Threat Hunting Maturity Model (THMM)** is a benchmarking framework created
 The **Threat Hunting Maturity Model (THMM)** provides a structured path from reactive detection to proactive, intelligence-informed hunting. By emphasizing **human-driven, hypothesis-based exploration**, it enables organizations to uncover stealthy threats, inform detection engineering, and evolve into agile, resilient security operations teams.
 
 > "Hunting is the practice of proactively and iteratively searching through networks to detect and isolate advanced threats that evade existing security solutions." — David J. Bianco
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

@@ -101,3 +101,9 @@ This glossary provides definitions for key terms, acronyms, and architectural co
 
 > Use this glossary as a cross-section of the vocabulary every Security Architect should master to communicate clearly, design wisely, and lead confidently.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

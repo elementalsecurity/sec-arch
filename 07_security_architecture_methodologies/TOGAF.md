@@ -93,3 +93,8 @@ Although TOGAF is not security-specific, it can be integrated with:
 ## Summary
 
 TOGAF provides a robust, scalable methodology for aligning business strategy with IT execution. For Security Architects, TOGAF offers a valuable structure for integrating security within enterprise programs, coordinating with risk, governance, and transformation efforts.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

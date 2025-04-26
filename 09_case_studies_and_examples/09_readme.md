@@ -59,3 +59,9 @@ These aren't sanitized textbook exercises. They're practical, nuanced, and drawn
 Security Architecture is defined by what you build under pressure. This section shows how strong architecture is not just about selecting controls, it's about how you apply them to serve both security and business outcomes. The best Security Architects think in systems, communicate in stories, and document with clarity.
 
 > "Architecture is where strategy meets reality. This is what it looks like in the wild."
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

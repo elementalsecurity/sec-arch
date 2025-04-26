@@ -107,3 +107,8 @@ Design systems so that security events are observable, attributable, and verifia
 ---
 
 *Secure architecture is not built solely by applying tools or policies. It is forged by deliberately applying principles that resist compromise, minimize impact, and enable continuous trust evaluation.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

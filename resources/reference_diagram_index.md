@@ -53,3 +53,9 @@ These reference diagrams provide visual anchors for explaining core security des
 
 > "A good diagram can clarify what 5 pages of text cannot. Build your visual library with care."
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

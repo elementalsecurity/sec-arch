@@ -105,3 +105,9 @@ This document provides a strategic and operational guide to risk management for 
 ---
 
 *Risk is the invisible material of security architecture. Every design, every control, and every decision is shaped by how we understand, prioritize, and manage the risks that define our digital world.*
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

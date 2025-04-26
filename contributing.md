@@ -70,3 +70,9 @@ Open an issue with the label `discussion`, or email the maintainer.
 
 Thank you for helping make the security architecture space stronger, smarter, and more generous.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

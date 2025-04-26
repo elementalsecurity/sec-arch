@@ -50,3 +50,8 @@ The Cloud Segmentation Pattern organizes cloud resources into isolated security 
 ---
 
 *Cloud segmentation is like building watertight compartments into a ship. No design can prevent every incident, but thoughtful boundaries minimize damage and create time for detection and response.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

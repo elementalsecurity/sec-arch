@@ -45,3 +45,9 @@ Additional reflection exercises and advanced models may be added over time.
 
 *Frameworks give you structure. Mental models give you vision. Great Security Architects operate with both.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

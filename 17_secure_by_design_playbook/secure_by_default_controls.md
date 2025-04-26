@@ -91,3 +91,9 @@ Security-relevant events should be logged and monitored automatically.
 
 *Designing Secure-by-Default is an act of leadership. It shifts the burden of security from individual users to system designers, improving safety for everyone without sacrificing usability.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

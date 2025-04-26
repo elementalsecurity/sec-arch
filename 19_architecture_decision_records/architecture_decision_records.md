@@ -123,3 +123,9 @@ Links to:
 
 *Good ADRs do not just record technical facts. They capture strategic thinking, risk acceptance, and learning that strengthens architectural resilience over time.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

@@ -58,3 +58,9 @@ Use the STRIDE model or customized threat categories as a guide.
 
 *Threat modeling is most valuable when it drives secure design decisions, improves risk visibility, and becomes part of a living design process.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

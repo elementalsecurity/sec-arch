@@ -85,3 +85,9 @@ This document provides practical starter templates that can be adapted to fit di
 
 *Templates provide scaffolding. Critical thinking, collaboration, and adaptive judgment are what truly bring threat models to life.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

@@ -86,3 +86,9 @@ The goal was to implement a secure identity federation architecture without brea
 ## Summary
 This case study illustrates how identity federation can bridge disparate environments during M&A, enabling collaboration without compromising control. By focusing on structured governance, scoped privilege, and phased migration, organizations can unify identity over time without sacrificing agility or auditability.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

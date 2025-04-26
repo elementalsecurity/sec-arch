@@ -78,3 +78,9 @@ Security Architects thrive in communities that challenge their assumptions, intr
 
 > "The best architects don’t just design systems... They shape the communities that evolve them."
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

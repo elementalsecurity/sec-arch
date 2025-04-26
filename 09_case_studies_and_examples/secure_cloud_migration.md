@@ -92,3 +92,8 @@ The business needed a secure-by-design cloud environment without delaying the mi
 
 ## Summary
 This case study highlights how a secure cloud migration can be achieved through a layered architecture approach, with identity, policy, and detection tightly integrated into every stage. It shows how a defensible design framework enables compliance, scalability, and real-world security outcomes even under regulatory and operational pressure.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

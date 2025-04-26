@@ -16,3 +16,8 @@ The goal here is simple: give you a clear mental model before you dive deeper in
 Take your time here. The better you understand the blueprint, the stronger every piece that follows will be.
 
 ---
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

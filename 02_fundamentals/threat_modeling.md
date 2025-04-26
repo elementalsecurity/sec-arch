@@ -104,3 +104,9 @@ This document provides a deep and operational guide to threat modeling in modern
 ---
 
 *Threat modeling is not just about finding vulnerabilities. It is about thinking like an attacker, defending like a strategist, and building systems that anticipate failure with resilience.*
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

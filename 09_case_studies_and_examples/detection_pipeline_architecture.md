@@ -89,3 +89,9 @@ The goal was to architect a modern, scalable detection and response pipeline tha
 ## Summary
 This case study demonstrates the design of a detection pipeline that transforms fragmented telemetry into actionable insights. By aligning detection engineering to business risk and operational scale, the security team moved from log aggregation to threat-informed defense. Architects play a critical role in ensuring data structure, detection logic, and response automation are coordinated and adaptable.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

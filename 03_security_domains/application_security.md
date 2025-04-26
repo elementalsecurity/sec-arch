@@ -93,3 +93,9 @@ This document provides a comprehensive guide to building, assessing, and maintai
 
 *Application security is not just about preventing breaches. It is about building trustworthy digital systems that enable innovation without sacrificing integrity, confidentiality, or availability.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

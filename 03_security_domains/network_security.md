@@ -87,3 +87,8 @@ This document provides a comprehensive guide to building resilient, scalable, an
 ---
 
 *Network security is not about building walls. It is about designing living, breathing systems of trust that adapt, observe, and protect the vital flows of digital life.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

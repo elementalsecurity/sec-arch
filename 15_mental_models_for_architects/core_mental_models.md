@@ -109,3 +109,9 @@ Accepting that no perimeter will stop all attacks, so designing for rapid detect
 
 *Frameworks organize what you know. Mental models shape how you think. A strong architect builds mastery of both.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

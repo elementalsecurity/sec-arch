@@ -46,3 +46,8 @@ Secure-by-Design is not a checklist. It is a mindset that influences every archi
 ---
 
 *Security is not what you add later. It is what you build from the beginning, layer by layer, assumption by assumption, decision by decision.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

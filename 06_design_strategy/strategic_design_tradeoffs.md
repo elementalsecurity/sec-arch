@@ -70,3 +70,9 @@ Tradeoffs are not signs of weakness in a design. They are evidence of strategic 
 Strategic tradeoff management is a core competency for security architects. It requires balancing imperfect options under real-world constraints, always anchored to the broader goals of resilience, usability, and business alignment.
 
 By embracing tradeoffs thoughtfully, architects strengthen the credibility and sustainability of their security designs.
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

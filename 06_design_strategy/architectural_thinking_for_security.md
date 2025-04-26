@@ -67,3 +67,8 @@ Architectural thinking is the foundation of effective security design. It requir
 By mastering these mindsets, security architects move beyond reactive defenses and into the realm of strategic, resilient system design.
 
 This mindset underpins the ARCH Model and prepares architects to engage threat modeling, tradeoff analysis, control placement, and validation with clarity and purpose.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

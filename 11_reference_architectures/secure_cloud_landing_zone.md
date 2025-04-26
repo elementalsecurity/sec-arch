@@ -102,3 +102,8 @@ Secure Landing Zones solve these problems by establishing security, operational,
 ---
 
 *A Secure Cloud Landing Zone is not just a technical construct. It is an agreement — a contract — that security, visibility, and operational readiness are embedded from the very first workload.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

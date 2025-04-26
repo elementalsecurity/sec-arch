@@ -20,3 +20,9 @@ Security Architecture is the practice of designing and implementing structured, 
 ## Importance in Organizations
 
 Security Architecture enables organizations to systematically address cybersecurity threats, minimize vulnerabilities, and ensure robust protection of critical assets. It supports long-term strategic planning and facilitates communication among stakeholders, contributing significantly to overall business resilience.
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

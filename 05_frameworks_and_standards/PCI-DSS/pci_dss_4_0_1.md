@@ -117,3 +117,8 @@ Mapping these helps consolidate controls and reduce duplicative effort during au
 ## SUMMARY
 
 PCI DSS 4.0.1 reflects the evolution of payment security into a risk-based, adaptive compliance framework. It challenges Security Architects to combine structured controls with flexible architectures that are both auditable and resilient. Implementing PCI DSS effectively enables organizations to build trust, reduce risk, and protect cardholder data in an increasingly complex threat landscape.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

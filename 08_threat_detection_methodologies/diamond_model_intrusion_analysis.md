@@ -97,3 +97,8 @@ From here, analysts can pivot:
 The **Diamond Model** is a powerful analytical tool that helps defenders and intelligence teams frame and correlate complex intrusion events. It complements technical detection frameworks by offering a **strategic, relational view** of threat actor behavior, allowing teams to uncover patterns, infer relationships, and better prepare for future attacks.
 
 > "At the heart of every intrusion event lies a relationship between adversary, infrastructure, capability, and victim. The Diamond Model reveals these links." — Caltagirone, Pendergast, Betz
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

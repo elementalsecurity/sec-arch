@@ -59,3 +59,9 @@ You are not just defending systems. You are shaping how they survive, evolve, an
 
 Welcome to the beginning of a powerful journey.
 **Let's build wisely.**
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

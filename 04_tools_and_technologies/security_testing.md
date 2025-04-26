@@ -98,3 +98,8 @@ Analyzes third-party libraries and open-source components for known vulnerabilit
 ## Summary
 
 Security testing tools help uncover weaknesses before adversaries can exploit them. Security Architects must enable testing coverage across the SDLC using a balanced mix of automated tools and manual validation. Integrating these tools into DevSecOps workflows ensures that vulnerabilities are identified, tracked, and remediated early in the lifecycle, improving security posture while reducing cost and complexity of fixes.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

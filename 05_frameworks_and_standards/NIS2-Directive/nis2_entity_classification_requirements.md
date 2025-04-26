@@ -105,3 +105,8 @@ Each EU Member State will:
 ## Summary
 
 NIS2 introduces a harmonized and enforceable cybersecurity baseline across the EU. Classification as an Essential or Important Entity determines the level of oversight and supervision. Organizations should proactively assess their classification, readiness, and reporting capabilities and also take steps now to align with the Directive before enforcement begins in **October 2024**.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

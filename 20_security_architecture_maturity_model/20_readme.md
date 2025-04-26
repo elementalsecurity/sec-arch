@@ -42,3 +42,9 @@ Security architecture maturity is not about achieving perfection. It is about co
 
 *Security architecture is not a project. It is an evolving capability that grows stronger through deliberate practice, reflection, and adaptation.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

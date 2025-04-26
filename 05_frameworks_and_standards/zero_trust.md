@@ -72,3 +72,9 @@ Security Architects are responsible for designing the trust boundaries and integ
 
 ZTA is not a product but a strategic shift in security architecture that modern Security Architects must champion.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

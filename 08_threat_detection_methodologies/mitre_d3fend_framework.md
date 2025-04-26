@@ -98,3 +98,8 @@ Security Architects can use D3FEND to:
 ## Summary
 
 **MITRE D3FEND** fills the defensive knowledge gap in cybersecurity strategy. When paired with ATT&CK, it forms a complete feedback loop between **attacker behaviors and defender responses**, allowing organizations to build measurable, aligned, and proactive security architectures grounded in adversary reality.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

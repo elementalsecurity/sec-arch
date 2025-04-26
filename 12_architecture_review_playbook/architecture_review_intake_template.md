@@ -92,3 +92,8 @@ Please attach or link the following artifacts if available:
 ---
 
 *Providing complete and accurate intake information improves the quality and relevance of the security architecture review, and helps ensure risks are identified and addressed before they become issues.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

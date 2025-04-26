@@ -110,3 +110,8 @@ Security Architects may:
 ## Final Thought
 
 Choosing the right threat modeling approach depends on system sensitivity, stakeholder needs, and regulatory context. Mastering multiple methodologies allows Security Architects to build **resilient, privacy-aware, and risk-aligned architectures** that can withstand modern adversarial pressures.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

@@ -53,3 +53,9 @@ Additional guided exercises or templates may be added over time.
 
 *Security Architects are not measured only by what they know. They are measured by how they think, how they reason, and how well they can lead systems from concept to trusted reality.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

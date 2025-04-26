@@ -39,3 +39,9 @@ A Security Architect plays a pivotal role within an organization by overseeing t
 ## Importance of the Role
 
 The Security Architect ensures that the organization's security infrastructure can adapt to evolving threats, technologies, and compliance requirements, playing a crucial role in maintaining operational resilience and protecting critical business functions.
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

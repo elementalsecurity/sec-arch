@@ -78,3 +78,9 @@ This document defines the key domains used in the Security Architecture Maturity
 
 *Security architecture maturity grows strongest when governance, design practices, threat thinking, enablement culture, and smart tooling advance together in a coordinated and deliberate way.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

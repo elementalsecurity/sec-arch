@@ -81,3 +81,8 @@ Build a sustainable rhythm for growth.
 No Security Architect succeeds in isolation. A strong network will amplify your learning, broaden your perspective, and create opportunities you may not otherwise see. Engage early, ask with intent, and offer value back to the communities that help you grow.
 
 > "Architecture is as much about people as it is about systems. Learn with others, grow with purpose."
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

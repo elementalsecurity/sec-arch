@@ -91,3 +91,9 @@ Approach:
 
 SOC 2 and ISO 27001 are **complementary**, not competing frameworks. By understanding their structure, audiences, and expectations, Security Architects can architect compliance programs that scale across markets and industries, meeting stakeholder trust demands while building robust and testable security infrastructure.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

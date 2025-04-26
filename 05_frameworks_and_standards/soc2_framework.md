@@ -140,3 +140,9 @@ Security Architects play a key role by:
 
 SOC 2 is a cornerstone of modern B2B trust. While Type I validates design and Type II proves real-world execution, the responsibility for continuous control maturity rests with internal teams, especially the Security Architects (they're the weirdos you can't live without). A well-planned SOC 2 program not only satisfies auditors but accelerates deals, de-risks your architecture, and earns customer trust.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

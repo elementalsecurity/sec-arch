@@ -52,3 +52,9 @@ The Secure Service Mesh Pattern uses a service mesh architecture to abstract and
 
 *A Secure Service Mesh enforces security controls inside dynamic, distributed environments. It makes security intrinsic to communication rather than dependent on perimeter defenses or manual configurations.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

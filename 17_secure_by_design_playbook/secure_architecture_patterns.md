@@ -66,3 +66,8 @@ Secure architecture patterns are standardized approaches to designing systems, c
 ---
 
 *Secure architecture patterns bridge the gap between abstract principles and real-world system design. They transform security from theory into structured, repeatable, and defensible practice.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

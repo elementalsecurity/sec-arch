@@ -104,3 +104,9 @@ Your certification strategy should reflect where you are now **and where you wan
 ## Summary
 Certifications are most powerful when they **amplify real experience**. Use them as waypoints and not endpoints on your journey to Security Architecture. Build strategically, validate thoughtfully, and always link what you learn to how you design.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

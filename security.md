@@ -46,3 +46,9 @@ For disclosures or time-sensitive risks, contact: **[INSERT EMAIL HERE]**
 
 Thank you for supporting responsible open-source security.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

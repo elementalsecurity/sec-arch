@@ -82,3 +82,8 @@ Security Architects can use RM-ODP to ensure that distributed systems maintain *
 ## Summary
 
 **RM-ODP** is a rigorous and scalable framework for describing distributed systems from multiple viewpoints. It supports architectural clarity, traceability, and interoperability which is especially important for Security Architects designing resilient, standards-aligned, and multi-stakeholder distributed architectures. Its abstraction mechanisms are particularly valuable for managing complexity in modern interconnected systems.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

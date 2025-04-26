@@ -68,3 +68,9 @@ Capturing tradeoffs helps ensure that risk-based decisions are transparent, trac
 
 *Documenting tradeoff decisions is essential to responsible architecture governance. It shows that risks were evaluated deliberately, that options were considered thoughtfully, and that the organization made informed choices aligned to its priorities and risk appetite.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

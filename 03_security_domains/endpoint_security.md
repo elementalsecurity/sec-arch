@@ -91,3 +91,9 @@ This document provides a comprehensive guide to designing and implementing effec
 
 *Every endpoint is a doorway. Securing each device is not just about protecting hardware. It is about safeguarding the entire digital fabric that connects people, data, and systems.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

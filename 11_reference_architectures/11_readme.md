@@ -47,3 +47,9 @@ Architecture is about structured thinking, not rigid compliance. Use these model
 
 *Security Architecture is the art of shaping complexity into trusted systems.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

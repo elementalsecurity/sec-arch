@@ -94,3 +94,8 @@ The report captures the system design context, key findings, risk assessments, r
 ---
 
 *Architecture Review Reports are critical artifacts for demonstrating that security was proactively evaluated and integrated into system designs. They provide transparency, accountability, and a foundation for continuous improvement.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

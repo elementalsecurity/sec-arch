@@ -115,3 +115,9 @@ The ARCH Tactical Implementation Guide translates security philosophy into field
 By following a phased deployment, mapping tactical controls, clarifying team roles, and defining measurable outcomes, security architects and leaders can operationalize security programs that are adversary-aware, resilient by design, and simplified for sustainability.
 
 > "Smarter security is not about having more controls. It is about designing friction into attacker paths and resilience into critical systems. ARCH provides the blueprint."
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

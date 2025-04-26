@@ -99,3 +99,8 @@ This document compares the two frameworks from a Security Architect’s perspect
 ## Summary
 
 While GDPR and CCPA/CPRA share foundational values like transparency, accountability, and user control, they diverge in implementation. Security Architects must design architectures that **scale across regulatory landscapes**, support privacy-by-design principles, and enable data governance at the infrastructure level.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

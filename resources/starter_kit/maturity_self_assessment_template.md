@@ -75,3 +75,8 @@ Use this template to benchmark your organization's current security architecture
 ---
 
 *Self-assessment provides the clarity needed to design a deliberate, disciplined path toward security architecture excellence.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

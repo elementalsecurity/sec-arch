@@ -97,3 +97,8 @@ Security Architects can leverage FEAF to:
 ## Summary
 
 **FEAF** is the cornerstone of federal enterprise architecture in the U.S., providing a mature, reference-model-driven approach to designing interoperable, efficient, and secure government systems. For Security Architects, it offers a robust framework for aligning cybersecurity with mission outcomes and enterprise IT capabilities across civilian agencies.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

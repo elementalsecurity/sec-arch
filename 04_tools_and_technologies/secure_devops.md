@@ -84,3 +84,9 @@ Security architects must approach Secure DevOps with a mindset of enabling busin
 ---
 
 This enhanced version removes inappropriate long em dash usage, structures the material architecturally, and raises the strategic maturity level in line with the expectations of someone aspiring to be a security architect.
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

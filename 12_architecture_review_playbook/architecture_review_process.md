@@ -91,3 +91,9 @@ This document outlines a standard, repeatable process for conducting Security Ar
 
 *Security Architecture Reviews are not obstacles to innovation. They are accelerators of trusted innovation, built through clarity, collaboration, and risk-aware decision-making.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

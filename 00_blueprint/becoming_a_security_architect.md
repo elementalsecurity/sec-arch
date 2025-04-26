@@ -112,3 +112,8 @@ Security Architecture is not about perfection. It is about protecting what matte
 And if you do it well, you will not just design systems.
 
 You will design trust.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

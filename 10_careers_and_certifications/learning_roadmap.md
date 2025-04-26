@@ -124,3 +124,8 @@ Security Architecture is a discipline of depth and breadth. This roadmap is not 
 - Present security as a strategic enabler
 
 > "An architect sees the forest, the trees, and the roots... Then aligns them all to a purpose."
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

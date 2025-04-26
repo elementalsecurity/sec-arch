@@ -123,3 +123,8 @@ A security model that assumes no implicit trust based on network location or own
 ---
 
 *This glossary is intended as a living document. As security architecture practices evolve, so too should our understanding of the language that shapes them.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

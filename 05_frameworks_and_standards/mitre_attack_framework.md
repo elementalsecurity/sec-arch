@@ -89,3 +89,8 @@ Security Architects use MITRE ATT&CK to:
 ## Summary
 
 MITRE ATT&CK is not just a reference, it’s an operational and strategic asset. When embedded into architecture design, detection engineering, and response programs, it allows Security Architects to make informed, threat-aware decisions and continuously improve the organization’s defensive posture.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

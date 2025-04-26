@@ -97,3 +97,9 @@ Security Architects must:
 
 SOX compliance isn't just a financial obligation, it's a security imperative (really?). Security Architects play a crucial role in ensuring system controls that maintain the **integrity, availability, and confidentiality** of financial systems and reporting pipelines. Embedding these controls into system design helps avoid audit findings, enables executive signoff, and ensures investor trust.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

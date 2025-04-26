@@ -54,3 +54,9 @@ The Secure Software Supply Chain Pattern introduces layered controls across code
 
 *A secure system begins with secure software. Building trust from the first line of code through the final deployment is the foundation of resilient, defensible architectures.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

@@ -78,3 +78,8 @@ This document provides a deep exploration of the core security principles every 
 ---
 
 *Security principles are not optional guardrails. They are the DNA of secure design. They are the habits of mind that separate accidental architectures from resilient ones.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

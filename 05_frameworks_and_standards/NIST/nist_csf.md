@@ -67,3 +67,9 @@ NIST CSF 2.0 provides Security Architects with a comprehensive, structured appro
 
 It is a flexible, scalable foundation for building risk-informed and resilient security architectures in any organization.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

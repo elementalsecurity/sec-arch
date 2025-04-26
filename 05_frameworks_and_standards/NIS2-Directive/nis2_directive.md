@@ -80,3 +80,8 @@ Security Architects play a key role in:
 ## Summary
 
 NIS2 sets a new standard for cybersecurity governance in Europe. Security Architects must ensure that technical architectures, operational practices, and governance processes align with both the directive’s requirements and the national implementations that apply to each business footprint within the EU.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

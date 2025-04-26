@@ -79,3 +79,8 @@ A mission-critical healthcare application must be hosted in the public cloud wit
 ---
 
 *Advanced challenges prepare you to think deeply, reason across technical and business domains, and lead complex security designs. They are stepping stones toward becoming a trusted advisor and strategic Security Architect.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

@@ -43,3 +43,8 @@ Architecture Reviews should build bridges, not walls. A good review improves sys
 ---
 
 *The goal of an architecture review is not to control decisions. It is to bring risk into focus, so the organization can make better-informed choices.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

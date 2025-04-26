@@ -68,3 +68,9 @@ The **Cyber Kill Chain** remains a valuable foundation for security operations, 
 
 > "Intelligence-driven defense is a necessity and not a luxury." — Hutchins, Cloppert, Amin (Lockheed Martin, 2011)
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

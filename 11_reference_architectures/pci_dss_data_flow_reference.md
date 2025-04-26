@@ -103,3 +103,9 @@ Secure Payment Data Flows solve these problems by strictly defining how CHD and 
 
 *Secure payment data flow is not just a compliance requirement. It is a frontline defense for customer trust, brand integrity, and financial survival.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

@@ -73,3 +73,8 @@ Threat modeling in this context is not a one-time exercise. It becomes a continu
 Threat modeling is not a separate compliance activity in ARCH-based design. It is a lightweight, continuous source of intelligence that feeds strategic architectural decisions.
 
 By embedding threat modeling into ARCH, security architects create designs that are not only compliant but truly adversary-aware, resilient, and sustainable.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

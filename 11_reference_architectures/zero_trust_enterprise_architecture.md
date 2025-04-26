@@ -92,3 +92,9 @@ Traditional perimeter-based security models assume that entities inside the netw
 
 *Zero Trust is not a product. It is a mindset to build every access decision as if no network is trusted, and every user, device, and application must prove its legitimacy, every time.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

@@ -51,3 +51,9 @@ The Secrets Management Pattern centralizes the secure storage, controlled access
 
 *Secrets are like radioactive material. Valuable and necessary for operations, but dangerous if mishandled. Secure secrets management is essential to maintaining system integrity and minimizing organizational risk.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

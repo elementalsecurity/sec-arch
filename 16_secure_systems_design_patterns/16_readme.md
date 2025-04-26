@@ -48,3 +48,9 @@ Additional patterns may be added over time.
 
 *Secure systems are not built from scratch every time. They are composed deliberately from well-understood, well-reasoned building blocks. Design patterns make good architecture repeatable.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

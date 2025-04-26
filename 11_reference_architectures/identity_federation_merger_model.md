@@ -93,3 +93,8 @@ During M&A activities, companies must enable users from different organizations 
 ---
 
 *In M&A, speed matters but security matters more. Identity Federation allows organizations to unlock collaboration quickly without sacrificing trust or visibility.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

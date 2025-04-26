@@ -104,3 +104,9 @@ This document provides a comprehensive guide to building effective security comp
 
 *Compliance is not the ceiling for security. It is the floor. True governance is not about merely passing audits. It is about embedding trustworthiness, accountability, and resilience into the DNA of the organization.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

@@ -36,3 +36,10 @@ It helps clarify *when* to engage as a security architect, *what* to focus on at
 This lifecycle pairs closely with the [Skill Progression Map](../00_blueprint/skill_progression_map.md) to show how strategic thinking and architectural engagement evolve over time.
 
 Both models reinforce that Security Architecture is not just a role, it's a rhythm, a continuous practice of aligning, designing, adapting, and improving.
+> \"Security Architecture is not the practice of building walls. It is the art of building systems that endure.\"
+
+---
+
+© 2025 Elemental Security Solutions, LLC  
+Part of the Security Architecture Knowledge Base.  
+Licensed under the MIT License.

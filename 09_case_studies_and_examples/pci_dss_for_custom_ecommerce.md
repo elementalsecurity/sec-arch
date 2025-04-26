@@ -95,3 +95,9 @@ Security and engineering leadership needed to ensure:
 ## Summary
 This case study demonstrates how a custom e-commerce platform can be built to support business goals without compromising compliance. By tightly integrating PCI DSS 4.0.1 controls into the architecture and development lifecycle, the team ensured both agility and defensibility under regulatory scrutiny.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

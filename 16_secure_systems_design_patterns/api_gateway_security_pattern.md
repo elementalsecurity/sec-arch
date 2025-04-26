@@ -52,3 +52,8 @@ The API Gateway Security Pattern establishes a centralized security control poin
 ---
 
 *An API Gateway is not just a routing component. It is a critical security checkpoint that protects the organization’s digital business interfaces. Strong, layered defenses at the API edge reduce risk exposure dramatically.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

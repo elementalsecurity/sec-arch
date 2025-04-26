@@ -52,3 +52,9 @@ The Resilient Logging and Monitoring Pattern emphasizes secure, redundant, and c
 
 *Logs are your organization's memory during an incident. Protecting and ensuring the availability of that memory is as critical as protecting the systems themselves.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

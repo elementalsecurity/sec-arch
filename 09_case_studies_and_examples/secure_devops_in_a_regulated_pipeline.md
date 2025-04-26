@@ -93,3 +93,8 @@ The engineering team required:
 
 ## Summary
 This case study demonstrates how regulated DevOps environments can achieve both speed and security. By embedding controls into the pipeline and aligning them with HIPAA safeguards and SOC 2 principles, the engineering team delivered with confidence, precision, and audit-readiness. Security became a feature of the platform, not a barrier to innovation.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

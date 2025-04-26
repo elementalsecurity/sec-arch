@@ -82,3 +82,9 @@ Each case study illustrates the competing forces at play, the decision rationale
 
 *Security Architecture is not about avoiding tradeoffs. It is about making them visible, defensible, and aligned to what matters most for the business and its mission.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

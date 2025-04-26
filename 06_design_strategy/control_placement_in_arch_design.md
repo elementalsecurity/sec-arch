@@ -88,3 +88,9 @@ Security architects should think about control placement across multiple system 
 Control placement is not an afterthought in security architecture. It is a strategic design activity that directly supports the ARCH Model's goals of raising attacker cost, improving system resilience, and simplifying secure operations.
 
 By thinking in layers, enforcing trust boundaries, disrupting attack paths, and maintaining operational simplicity, security architects create environments that are adversary-aware, resilient, and sustainable.
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

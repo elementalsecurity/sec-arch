@@ -74,3 +74,9 @@ The **MITRE ATT&CK Framework** is a cornerstone of modern cyber defense. Its emp
 
 > "You cannot defend what you do not understand. ATT&CK brings adversary behavior into focus for every defender."
 > Adapted from the MITRE Corporation
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

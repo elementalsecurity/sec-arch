@@ -65,3 +65,8 @@ Attach or describe relevant artifacts:
 ---
 
 *Documenting your challenge responses thoughtfully improves both your technical skills and your ability to reason, communicate, and lead as a future Security Architect.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

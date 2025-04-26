@@ -58,3 +58,9 @@ Security Architects use OWASP to:
 
 OWASP is an essential toolset for every Security Architect who influences how secure code is built, deployed, and maintained across modern digital ecosystems.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

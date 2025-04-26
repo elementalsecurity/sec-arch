@@ -47,3 +47,9 @@ The risk register helps bridge technical issues and business impact. A good risk
 
 > "Risk isn’t just what you haven’t fixed, it’s what you haven’t acknowledged. Track it to own it."
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

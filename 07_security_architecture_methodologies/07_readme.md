@@ -44,3 +44,9 @@ Mastering these methodologies strengthens your ability to move between strategy 
 
 *Architecture methodologies provide structure, but not limitation. As a Security Architect, your skill is not in rigidly following a framework. It is in understanding when to apply structure, when to adapt, and when to innovate to protect what matters most.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

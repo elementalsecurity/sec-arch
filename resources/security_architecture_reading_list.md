@@ -72,3 +72,9 @@ Security Architects require deep knowledge, broad exposure, and strategic insigh
 
 > "A great Security Architect never stops reading... Why? Because the adversary never stops learning."
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

@@ -104,3 +104,8 @@ This document provides a comprehensive guide to building and maintaining secure 
 ---
 
 *Cloud security is not just about defending virtual infrastructure. It is about securing dynamic ecosystems of services, data, and identities moving at the speed of business.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

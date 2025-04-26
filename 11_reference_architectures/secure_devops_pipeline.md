@@ -108,3 +108,9 @@ Secure DevOps Pipelines solve these problems by embedding security directly into
 
 *Securing DevOps pipelines is not about slowing developers down. It is about giving them the tools to build trusted software at the speed of business.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

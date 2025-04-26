@@ -115,3 +115,8 @@ This document provides practical guidance for advancing maturity across each key
 - Mature iteratively. Small, consistent improvements accumulate into transformational capability.
 
 *Security architecture maturity grows not through declarations but through deliberate design, disciplined action, and continuous reflection.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

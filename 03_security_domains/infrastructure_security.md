@@ -87,3 +87,9 @@ This document provides a comprehensive guide to designing and maintaining secure
 
 *Infrastructure is not invisible. It is the bedrock that bears the weight of every application, service, and trust decision. Securing it well is not optional. It is existential.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

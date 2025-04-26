@@ -76,3 +76,8 @@ Use this checklist during architecture and design reviews to surface security ri
 ---
 
 *Security design reviews are not about finding every flaw. They are about building systems that are resilient, risk-informed, and continuously improvable.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

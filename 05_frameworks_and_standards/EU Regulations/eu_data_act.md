@@ -68,3 +68,9 @@ Security and Privacy teams must:
 
 The EU Data Act redefines how value is extracted from data by promoting **data democratization**, **fair competition**, and **trust in digital ecosystems**. Organizations must architect for open, secure, and interoperable environments that respect user rights and regulatory boundaries.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

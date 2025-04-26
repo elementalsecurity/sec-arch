@@ -101,3 +101,8 @@ Security scanning of Terraform, CloudFormation, Bicep, etc. to detect misconfigu
 ## Summary
 
 Securing the cloud requires a deep understanding of provider-native controls and how third-party platforms can enhance visibility, enforcement, and response. Security Architects must be fluent in evaluating CSPM, CWPP, CIEM, and IaC tools, ensuring their selection aligns with the organization's operating model, maturity, and compliance obligations.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

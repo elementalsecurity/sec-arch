@@ -101,3 +101,9 @@ These examples illustrate how ADRs can:
 
 *Good security architecture is built not only through technical excellence, but through clear, deliberate, and recorded decision-making.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

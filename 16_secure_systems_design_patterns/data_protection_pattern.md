@@ -54,3 +54,8 @@ The Data Protection Pattern applies encryption, access control, and monitoring a
 ---
 
 *Protecting data is not a single control. It is a layered, continuous discipline that treats data as a dynamic, living asset deserving constant care and security.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

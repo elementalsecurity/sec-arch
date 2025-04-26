@@ -86,3 +86,9 @@ This document provides a comprehensive guide to IAM principles, risks, architect
 
 *Identity is the new perimeter. Strong IAM design does not just protect access. It protects trust, integrity, and resilience across the entire digital ecosystem.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

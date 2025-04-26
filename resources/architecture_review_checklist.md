@@ -61,3 +61,9 @@ Use this checklist to guide structured security architecture reviews during proj
 
 > This checklist should evolve with your organization's architecture maturity. Customize it to reflect the standards and threats relevant to your environment.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

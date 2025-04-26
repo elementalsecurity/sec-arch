@@ -79,3 +79,8 @@ This document provides guidance on constructing, maintaining, and applying reusa
 ---
 
 *Threat libraries turn experience into structure, and structure into speed. They help teams think faster, deeper, and more consistently about real-world risks.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

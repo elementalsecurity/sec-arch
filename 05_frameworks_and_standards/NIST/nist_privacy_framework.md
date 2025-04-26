@@ -103,3 +103,9 @@ Reflect the maturity of privacy risk management:
 
 The NIST Privacy Framework is a powerful, adaptable tool for embedding privacy into enterprise architecture and product design. Whether used independently or mapped to regulations like GDPR and CCPA, it empowers organizations to build trust, reduce risk, and deliver privacy-conscious innovation in a structured, measurable way.
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

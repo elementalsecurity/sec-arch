@@ -37,3 +37,9 @@ The goal is not to assign numeric scores but to build a mindset of completeness,
 
 *Security Architecture is a discipline of thinking and communicating, not just knowing. Clear articulation of risk, tradeoffs, and design choices is what transforms knowledge into leadership.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

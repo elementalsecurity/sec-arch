@@ -60,3 +60,8 @@ Every design decision carries implicit assumptions about risk, performance, cost
 The Security Architect's role is not to prevent tradeoffs, but to illuminate them so that the organization chooses its risks with full understanding.
 
 *Good questions make risks visible. Visible risks enable better decisions.*
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

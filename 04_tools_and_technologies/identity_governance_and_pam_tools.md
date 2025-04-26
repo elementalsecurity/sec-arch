@@ -83,3 +83,8 @@ PAM platforms manage, monitor, and protect accounts with elevated privileges acr
 ## Summary
 
 Identity Governance and PAM tools are critical for securing access across enterprise environments. By integrating IGA for lifecycle governance and PAM for privilege control, Security Architects can design scalable, auditable, and compliant identity infrastructures that reduce insider risk and increase operational agility.
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.

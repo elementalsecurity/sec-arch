@@ -75,3 +75,9 @@ Threat modeling automation is most effective when paired with periodic human val
 
 *Automation extends the reach of threat modeling. But it is judgment, collaboration, and critical thinking that truly make systems safer.*
 
+
+
+---
+© 2025 Elemental Security Solutions, LLC
+Part of the Security Architecture Knowledge Base.
+Licensed under the MIT License.
