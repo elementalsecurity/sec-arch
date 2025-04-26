@@ -1,46 +1,57 @@
-# 06 - Design Strategy
+# Design Strategy
 
 ## Purpose
 
-The Design Strategy section introduces security professionals to the strategic principles required for effective security architecture. It goes beyond frameworks and compliance to focus on resilient, adversary-aware design.  
+The Design Strategy section develops the mindset, methods, and operational frameworks needed to architect resilient, adversary-aware systems. It moves beyond compliance and control lists, focusing instead on strategic security architecture that disrupts attackers, sustains operations under stress, and aligns to business priorities.
 
-This section builds the foundation for applying the **ARCH Model** — **Asymmetric Resilient Cybersecurity Hardening** — as the central design lens. Through ARCH, architects learn to shape environments that are not just compliant but inherently disruptive to attackers, sustainable under stress, and aligned to business purpose.
+This section introduces and applies the **ARCH Model** — **Asymmetric Resilient Cybersecurity Hardening** — as the central strategic lens. Through ARCH, architects learn to prioritize attacker disruption, resilience by design, cybersecurity-driven architecture, and hardening through simplicity.
 
-Security design is not merely a technical exercise. It is a strategic discipline that must internalize threat dynamics, operational realities, and organizational goals, blending rigorous modeling with practical adaptability.
+Security architecture is not purely a technical exercise. It is strategic design under uncertainty, blending threat intelligence, business risk management, system dynamics, and adversary modeling.
 
-## Key Themes
-
-- **Security by Design:** Embedding security into architectures from the earliest conceptual stages rather than layering controls after-the-fact.
-- **Architectural Modeling:** Using threat models, security patterns, trust boundaries, and resilience patterns to make risks visible and actionable.
-- **Strategic Tradeoff Analysis:** Recognizing and managing inevitable tensions among security, usability, performance, and cost.
-- **Alignment to Business Objectives:** Designing architectures that enable critical business functions while improving operational resilience.
-- **Adversary-Focused Resilience:** Prioritizing asymmetry, recovery, and simplicity over rigid control inventories.
 
 ## What This Section Covers
 
-This section empowers architects and security leaders to design with purpose by providing:
+This section prepares architects to design, validate, and defend real-world security architectures by providing:
 
-- The mental models needed for **asymmetric security architecture.**
-- Structured approaches for integrating **ARCH Pillars** — Asymmetry, Resilience, Cybersecurity-Driven Architecture, and Hardening Through Simplicity — into every design effort.
-- Techniques for threat-informed design in Agile, DevOps, hybrid cloud, and legacy environments.
-- Methods for identifying critical assets, mapping attack paths, and embedding disruption points into architectural patterns.
-- Frameworks for communicating design risks, tradeoffs, and priorities to both technical and business stakeholders.
+- **Architectural Thinking Frameworks:** How to reason about trust boundaries, failure modes, adversary paths, and resilience strategies.
+- **Threat Modeling Integration:** How to embed lightweight, continuous threat modeling into every phase of ARCH-based design.
+- **Strategic Tradeoff Management:** How to navigate and document security, usability, performance, and cost tradeoffs with executive clarity.
+- **Control Placement Strategies:** How to place controls intentionally across identity, application, infrastructure, data, and network layers to maximize attacker friction and resilience.
+- **Validation Metrics and Testing Approaches:** How to measure architecture effectiveness through adversary cost models, resilience testing, and operational simplicity reviews.
+- **Communication and Advocacy Skills:** How to present, defend, and operationalize security designs with technical and executive stakeholders.
 
-## How to Use This Section
 
-Whether you are designing new platforms, assessing inherited environments, or leading architectural transformations, this section provides:
+## How to Navigate This Section
 
-- **Conceptual frameworks** to think and reason about security design under uncertainty.
-- **Tactical guides** for embedding ARCH principles into system architectures.
-- **Practical examples** to translate design theory into operational resilience.
+To maximize value, it is recommended to follow this reading flow:
 
-This is not a checklist or a one-size-fits-all method.  
-It is a strategic way of thinking — one that will enable you to architect systems that are harder to compromise, faster to recover, and intentionally aligned to business and adversary realities.
+1. **Architectural Thinking for Security:** Build the mental models necessary for resilient, adversary-aware design.
+2. **Threat Modeling in ARCH-Based Design:** Learn to map attacker paths and inform control placement and disruption strategies.
+3. **Strategic Design Tradeoffs:** Master the art of balancing security, usability, performance, and cost in real-world decisions.
+4. **Control Placement in ARCH-Based Design:** Understand how layered controls enforce trust boundaries and disrupt adversary movement.
+5. **Validating Security Architecture Effectiveness:** Learn how to measure whether your architecture is achieving intended outcomes.
+6. **Communicating Security Designs to Stakeholders:** Build the skills to advocate for your designs, manage risk perceptions, and lead security by design initiatives.
 
----
+Each document builds upon the previous, developing both strategic reasoning and tactical execution capabilities.
+
+
+## Why This Matters
+
+Architecting secure systems in modern environments requires more than deploying tools. It requires structured judgment:
+
+- To anticipate how systems fail.
+- To foresee how adversaries move.
+- To simplify without weakening resilience.
+- To balance business needs against security priorities.
+- To defend architecture decisions under scrutiny.
+
+This section does not just teach security design. It teaches **architectural mastery** — the ability to design systems that are harder to break, faster to recover, and intentionally aligned to organizational purpose.
+
 
 ## Next Steps
 
-Begin by reviewing the **ARCH Overview** to internalize the strategic pillars.  
-Then continue into the detailed guidance on applying asymmetric, resilient, and simplicity-driven design principles across a variety of architectural domains.
+Begin with **Architectural Thinking for Security** to internalize the strategic mindset needed for everything that follows.
 
+Then proceed step-by-step, building your capabilities across threat modeling, tradeoff navigation, control placement, validation, and executive communication.
+
+By the end of this section, you will not only understand how to design security architectures — you will understand how to shape systems that endure.
