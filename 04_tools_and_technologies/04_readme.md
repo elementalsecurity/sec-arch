@@ -55,9 +55,4 @@ This section encourages **critical thinking, comparative analysis, and practical
 
 ---
 
-## What's Next?
-We’ll now begin working through each category, starting with:
-
-**[Cloud Security](/05-Tools-and-Technologies/cloud_security.md)**
-
 Let’s dive into the real-world tools that make our architectural strategies resilient, observable, and enforceable.
