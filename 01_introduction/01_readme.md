@@ -20,8 +20,8 @@ This section provides a conceptual lens through which all subsequent content sho
 
 | File | Description |
 |------|-------------|
-| `what_is_security_architecture.md` | Defines the discipline, core objectives, and key components of Security Architecture【384†what_is_security_architecture.md】 |
-| `roles_and_responsibilities_security_architect.md` | Describes the expectations, skills, and business impact of the Security Architect role【383†roles_and_responsibilities_security_architect.md】 |
+| `what_is_security_architecture.md` | Defines the discipline, core objectives, and key components of Security Architecture |
+| `roles_and_responsibilities_security_architect.md` | Describes the expectations, skills, and business impact of the Security Architect role |
 
 ---
 
