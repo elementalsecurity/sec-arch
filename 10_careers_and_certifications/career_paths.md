@@ -1,6 +1,6 @@
 # Career Paths to Becoming a Security Architect
 
-Security Architects typically emerge through one of several professional pipelines, building deep technical, governance, or engineering expertise before moving into architecture roles. There is no single path—your trajectory will depend on your background, domain interest, and the maturity of the organization you work with.
+Security Architects typically emerge through one of several professional pipelines, building deep technical, governance, or engineering expertise before moving into architecture roles. There is no single path and your trajectory will depend on your background, domain interest, and the maturity of the organization you work with.
 
 This guide outlines multiple entry points, specialization tracks, and career development stages for individuals aspiring to become Security Architects.
 
