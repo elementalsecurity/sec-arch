@@ -19,9 +19,9 @@ These fundamentals equip architects with the perspective to align security decis
 
 | File | Description |
 |------|-------------|
-| `security_principles.md` | Introduces foundational principles such as least privilege, defense in depth, and fail-safe defaults【395†security_principles.md】 |
-| `threat_modeling.md` | Explains methodologies for identifying and mitigating threats during system design【396†threat_modeling.md】 |
-| `risk_management.md` | Describes how to evaluate, prioritize, and treat risks in alignment with architecture decisions【394†risk_management.md】 |
+| `security_principles.md` | Introduces foundational principles such as least privilege, defense in depth, and fail-safe defaults |
+| `threat_modeling.md` | Explains methodologies for identifying and mitigating threats during system design |
+| `risk_management.md` | Describes how to evaluate, prioritize, and treat risks in alignment with architecture decisions |
 
 ---
 
