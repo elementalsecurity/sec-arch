@@ -102,5 +102,5 @@ Your certification strategy should reflect where you are now **and where you wan
 ---
 
 ## Summary
-Certifications are most powerful when they **amplify real experience**. Use them as waypoints—not endpoints—on your journey to Security Architecture. Build strategically, validate thoughtfully, and always link what you learn to how you design.
+Certifications are most powerful when they **amplify real experience**. Use them as waypoints and not endpoints on your journey to Security Architecture. Build strategically, validate thoughtfully, and always link what you learn to how you design.
 
