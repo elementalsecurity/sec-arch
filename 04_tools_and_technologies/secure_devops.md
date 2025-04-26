@@ -1,6 +1,6 @@
 # Secure DevOps Tools and Technologies
 
-This document provides a structured overview of the tools and platforms that support **Secure DevOps** practices—commonly referred to as **DevSecOps**. Security Architects play a critical role in integrating security into the software development lifecycle (SDLC), ensuring that code, pipelines, secrets, and infrastructure are secure by design.
+This document provides a structured overview of the tools and platforms that support **Secure DevOps** practices commonly referred to as **DevSecOps**. Security Architects play a critical role in integrating security into the software development lifecycle (SDLC), ensuring that code, pipelines, secrets, and infrastructure are secure by design.
 
 ---
 
