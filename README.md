@@ -4,7 +4,7 @@
 
 _A practical, structured, and strategic guide to mastering security architecture, system design, and risk-aligned thinking._
 
-This repository is a world-class, structured resource for aspiring and practicing Security Architects who want to master the art and science of building secure, resilient, and business-aligned systems.
+This repository is a structured resource for aspiring and practicing Security Architects who want to master the art and science of building secure, resilient, and business-aligned systems.
 
 It is designed as a progressive, professional development journey: starting from foundational concepts, moving through practical skills, expanding into system design patterns, embedding security into architecture governance, and culminating in maturity modeling and strategic growth planning.
 
