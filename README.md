@@ -12,7 +12,6 @@ Every track is intended to be both educational and operational. Whether you are 
 
 ```markdown
 [Start Here](start_here.md)
-```
 ---
 
 ## Purpose of This Repository
