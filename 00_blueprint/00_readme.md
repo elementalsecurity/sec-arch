@@ -8,7 +8,7 @@ Security Architecture is not about memorizing frameworks or deploying tools. It 
 
 In this section, you will find:
 
-- **Becoming a Security Architect: The Blueprint**  
+- **Becoming a Security Architect: The Blueprint**
   A practical guide that connects the skills, stages, and strategic thinking needed to grow into a Security Architect role.
 
 The goal here is simple: give you a clear mental model before you dive deeper into the technical, strategic, and operational topics throughout the rest of this repository.

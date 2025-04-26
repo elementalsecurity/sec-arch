@@ -12,11 +12,11 @@ Use this list to:
 ## Books
 
 ### Foundational Texts
-- **"Security Engineering" by Ross Anderson**  
+- **"Security Engineering" by Ross Anderson**
   A deep dive into system security and threat modeling across diverse domains.
-- **"The Practice of Network Security Monitoring" by Richard Bejtlich**  
+- **"The Practice of Network Security Monitoring" by Richard Bejtlich**
   A practical introduction to network detection and incident response.
-- **"Zero Trust Networks" by Evan Gilman & Doug Barth**  
+- **"Zero Trust Networks" by Evan Gilman & Doug Barth**
   Tactical and strategic lessons for building least-trust environments.
 
 ### Cloud and Infrastructure Security
@@ -25,7 +25,7 @@ Use this list to:
 - **"Cloud Security Handbook" by Eoin Woods**
 
 ### Identity and Access Management
-- **"Designing Secure Software" by Loren Kohnfelder**  
+- **"Designing Secure Software" by Loren Kohnfelder**
   Explores authentication, authorization, and the principle of least privilege.
 - **"IAM for the Enterprise" by Gil Kirkpatrick** (Advanced Active Directory scenarios)
 
@@ -35,7 +35,7 @@ Use this list to:
 - **"Cybersecurity and Privacy Law Handbook" – Various jurisdictions**
 
 ### Adversarial Thinking
-- **"The Threat Modeling Manifesto" by the Community**  
+- **"The Threat Modeling Manifesto" by the Community**
 - **"Red Team: How to Succeed by Thinking Like the Enemy" by Micah Zenko**
 - **"ATT&CK for Dummies" – MITRE + Community Partners**
 

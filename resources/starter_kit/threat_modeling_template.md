@@ -8,11 +8,11 @@ Use this template to conduct structured, lightweight threat modeling for systems
 
 ## System Overview
 
-- **Project Name:**  
-- **System Description:**  
-- **Key Assets:**  
-- **Data Sensitivity Classification:**  
-- **External Integrations:**  
+- **Project Name:**
+- **System Description:**
+- **Key Assets:**
+- **Data Sensitivity Classification:**
+- **External Integrations:**
 
 ## Data Flow Diagram (DFD) (Optional)
 

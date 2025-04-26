@@ -56,7 +56,7 @@ Good tradeoff identification comes from asking focused, risk-aware questions. Th
 
 ## Closing Thought
 
-Every design decision carries implicit assumptions about risk, performance, cost, and usability.  
+Every design decision carries implicit assumptions about risk, performance, cost, and usability.
 The Security Architect's role is not to prevent tradeoffs, but to illuminate them so that the organization chooses its risks with full understanding.
 
 *Good questions make risks visible. Visible risks enable better decisions.*

@@ -72,5 +72,5 @@ ATT&CK matrices map these elements visually, providing an organized view of the 
 
 The **MITRE ATT&CK Framework** is a cornerstone of modern cyber defense. Its emphasis on observable attacker behavior, structured documentation of TTPs, and its broad applicability across operational, intelligence, and governance functions make it essential for security architecture, threat detection, and proactive risk management.
 
-> "You cannot defend what you do not understand. ATT&CK brings adversary behavior into focus for every defender."  
+> "You cannot defend what you do not understand. ATT&CK brings adversary behavior into focus for every defender."
 > Adapted from the MITRE Corporation

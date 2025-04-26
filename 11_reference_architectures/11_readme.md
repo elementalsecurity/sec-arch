@@ -15,22 +15,22 @@ Each model includes:
 
 ## Initial Available Models
 
-- **Zero Trust Enterprise Architecture**  
+- **Zero Trust Enterprise Architecture**
   Secure identity-first access across enterprise systems and users.
 
-- **Secure Cloud Landing Zone**  
+- **Secure Cloud Landing Zone**
   Baseline security controls for public cloud environments.
 
-- **Identity Federation for Mergers & Acquisitions**  
+- **Identity Federation for Mergers & Acquisitions**
   Patterns for integrating separate IAM systems securely.
 
-- **PCI DSS Payment Data Flow**  
+- **PCI DSS Payment Data Flow**
   Architecting data flows that meet PCI DSS 4.0 requirements.
 
-- **Secure DevOps Pipeline**  
+- **Secure DevOps Pipeline**
   Embedding security in modern CI/CD workflows without killing speed.
 
-- **Privacy by Design Architecture for GDPR Compliance**  
+- **Privacy by Design Architecture for GDPR Compliance**
   Building systems that respect user privacy from the ground up.
 
 ---

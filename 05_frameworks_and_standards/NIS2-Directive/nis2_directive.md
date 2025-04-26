@@ -19,7 +19,7 @@ The **NIS2 Directive** (Directive (EU) 2022/2555) is the European Union’s upda
   - Perform risk analysis and incident prevention
   - Adopt supply chain security measures
   - Report significant incidents within 24 hours (initial report), 72 hours (status update), and one month (final report)
-  
+
 - **Governance and Accountability**:
   - Executive management must oversee and be accountable for cybersecurity compliance
   - Entities must designate a responsible point of contact for cybersecurity

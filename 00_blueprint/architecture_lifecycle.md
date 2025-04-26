@@ -12,19 +12,19 @@ It helps clarify *when* to engage as a security architect, *what* to focus on at
 
 ### Phase Descriptions
 
-- **Plan**  
+- **Plan**
   Identify risks, define security objectives, align to business needs.
 
-- **Design**  
+- **Design**
   Architect secure solutions and threat model key systems.
 
-- **Build**  
+- **Build**
   Validate requirements and embed controls into development processes.
 
-- **Operate**  
+- **Operate**
   Oversee security posture, support resilience, ensure governance.
 
-- **Improve**  
+- **Improve**
   Feed lessons learned back into planning for stronger future designs.
 
 ---
