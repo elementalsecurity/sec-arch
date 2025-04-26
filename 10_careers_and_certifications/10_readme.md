@@ -1,6 +1,6 @@
 # Careers and Certifications
 
-This section of the _"So You Want To Be A Security Architect?"_ repository is dedicated to helping individuals understand what it takes to become a Security Architect—from foundational knowledge and career progression to certifications and real-world experience.
+This section of the _"So You Want To Be A Security Architect?"_ repository is dedicated to helping individuals understand what it takes to become a Security Architec, from foundational knowledge and career progression to certifications and real-world experience.
 
 Security Architecture is a **multidisciplinary discipline** that blends technology, risk management, and business strategy. Navigating this path requires more than just technical skill; it demands systems thinking, communication ability, and a deep understanding of how security decisions impact an organization.
 
