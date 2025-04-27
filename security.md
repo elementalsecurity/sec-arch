@@ -1,3 +1,9 @@
+<!--
+Version: 1.0.0
+Last Updated: 2025-04-27
+Owner: Elemental Security Solutions, LLC
+-->
+
 # Security Policy
 
 Thank you for helping improve the quality and security of this repository. We welcome all responsible disclosures, secure development feedback, and vulnerability reports.

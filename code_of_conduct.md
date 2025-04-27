@@ -1,3 +1,9 @@
+<!--
+Version: 1.0.0
+Last Updated: 2025-04-27
+Owner: Elemental Security Solutions, LLC
+-->
+
 # Code of Conduct
 
 ## Our Pledge

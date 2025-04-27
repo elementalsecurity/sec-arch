@@ -1,3 +1,9 @@
+<!--
+Version: 1.0.0
+Last Updated: 2025-04-27
+Owner: Elemental Security Solutions, LLC
+-->
+
 # So You Want To Be a Security Architect?
 
 [![Start Here](https://img.shields.io/badge/Start%20Here-Begin%20Your%20Journey-blue?style=for-the-badge)](./start_here.md)

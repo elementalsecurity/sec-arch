@@ -1,3 +1,9 @@
+<!--
+Version: 1.0.0
+Last Updated: 2025-04-27
+Owner: Elemental Security Solutions, LLC
+-->
+
 # Contributing to the Security Architecture Repository
 
 Thank you for your interest in contributing. This project thrives on collaboration, shared knowledge, and practical experience. Whether you are correcting a typo, contributing a full case study, or adding new templates, your contributions are valued and essential to the project's success.

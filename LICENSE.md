@@ -1,3 +1,9 @@
+<!--
+Version: 1.0.0
+Last Updated: 2025-04-27
+Owner: Elemental Security Solutions, LLC
+-->
+
 MIT License
 
 Copyright (c) 2025 Elemental Security Solutions, LLC
